@@ -1,4 +1,5 @@
 <link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 Víctor Leonel Orozco López
 ==========================
