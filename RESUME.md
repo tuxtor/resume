@@ -1,4 +1,4 @@
-<link href="https://raw.github.com/jasonm23/markdown-css-themes/gh-pages/foghorn.css" rel="stylesheet"></link>
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 Víctor Leonel Orozco López
