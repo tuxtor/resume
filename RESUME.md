@@ -7,11 +7,11 @@ Víctor Leonel Orozco López
 
 Summary
 =======
-- **Software Develope:** Specialist in Free Software and Java Enterprise development, I'm also certified as Oracle Database Adminitrator by Tata Consultancy Services.
+- **Software Developer:** Specialist in Free Software and Java Enterprise development, I'm also certified as Oracle Database Adminitrator by Tata Consultancy Services.
 
-- **Academic:** As a student I was auxiliary teacher in two pregrade courses Software Analysis and Design and Operative Systems, also I was the first student of my generation to complete credits and courses in record time (9 of 10 semesters).
+- **Academic:** As a student I was auxiliary teacher in two pregrade courses *Software Analysis and Design* and *Operative Systems*, also I was the first student of my generation to complete credits and courses in record time (9 of 10 semesters).
 
-- **Software Activism:** Active FLOSS communities member in Guatemala, founder of San Marcos Linux Users Group (regional LUG) and Java Users Group, Guatejug.
+- **Software Activism:** Active member in FLOSS communities at Guatemala, founder member of [San Marcos Linux Users Group](http://www.shekalug.org) and Jug Leader at Guatemala Java Users Group, [GuateJUG](http://www.guate-jug.net).
 
 
 Experience
