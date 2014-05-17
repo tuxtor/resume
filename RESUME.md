@@ -161,23 +161,38 @@ Backpacking, running, natural languages, science and free software advocacy.
 
 References
 ----------
-|-------------------------------------------- 		|---------------------------------------------------	|
-|*Ing. Andrea Rodas*<br />							|*Inga. Maria Castillo*<br />							|
-|General Department of Research<br />				|Academic coordinator, CS Program<br />					|
-|Universidad de San Carlos de Guatemala<br />		|Universidad Rafael Landivar<br />						|
-|andyscreations2012 \<at> gmail \<dot> com<br />	|carmen.castillo \<at> gmail \<dot> com<br />			|
-|*Ing. Javier Gramajo*<br />						|*Ing. Jose Lobos*<br />								|
-|CEO<br />											|Bsc. thesis advisor<br />								|
-|SQMOS<br />									 	|Universidad de San Carlos de Guatemala<br />			|
-|jgramajo \<at> gmail \<dot> com<br />				|joseflobos \<at> gmail \<dot> com<br />  				|
-|*Ing. Ricardo Morales*<br />						|*Ing. Antonio Sobalvarro*<br />						|
-|Tenured professor - CS Program<br />				|CEO<br />												|
-|Universidad de San Carlos de Guatemala<br />		|Soluciones Estrategicas<br />							|
-|ricardo.moralesp \<at> gmail \<dot> com<br />		|as \<at> mobilges \<dot> com<br /> 					|
-|*Prof. Dr. Raul Ceretta Nunes*<br />				|*Prof. Dr. Ana Trindade Winck*<br />					|
-|Msc. dissertation advisor<br />					|Tenured professor - CS Program<br />					|
-|Universidade Federal de Santa Maria<br />			|Universidade Federal de Santa Maria<br />				|
-|ceretta \<at> inf \<dot> ufsm \<dot> br<br />		|ana \<at> inf \<dot> ufsm \<dot> br<br />				|
+
+* *Ing. Andrea Rodas*  
+General Department of Research • Universidad de San Carlos de Guatemala  
+andyscreations2012 \<at> gmail \<dot> com	
+
+* *Inga. Maria Castillo*  
+Academic coordinator - CS Program • Universidad Rafael Landivar  
+carmen.castillo \<at> gmail \<dot> com
+
+* *Ing. Javier Gramajo*  
+CEO • SQMOS  
+jgramajo \<at> gmail \<dot> com  
+
+* *Ing. Jose Lobos*  
+Bsc. thesis advisor • Universidad de San Carlos de Guatemala  
+joseflobos \<at> gmail \<dot> com  
+
+* *Ing. Ricardo Morales*  					
+Tenured professor - CS Program • Universidad de San Carlos de Guatemala  	
+ricardo.moralesp \<at> gmail \<dot> com	 
+
+* *Ing. Antonio Sobalvarro*  
+CEO • Soluciones Estrategicas  
+as \<at> mobilges \<dot> com  
+
+* *Prof. Dr. Raul Ceretta Nunes*  			
+Msc. dissertation advisor •	Universidade Federal de Santa Maria  		
+ceretta \<at> inf \<dot> ufsm \<dot> br  
+
+* *Prof. Dr. Ana Trindade Winck*  
+Tenured professor - CS Program • Universidade Federal de Santa Maria  
+ana \<at> inf \<dot> ufsm \<dot> br  
 
 ------
 > <me@vorozco.com> • +502 58783901 • 25 years old\

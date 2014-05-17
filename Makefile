@@ -12,7 +12,7 @@ html:
 	$(PAN) --standalone --from markdown --to html -c style.css -o $(INDEX) $(SOURCE)
 
 pdf:
-	$(WKHTML) --print-media-type $(INDEX) $(PDF)
+	$(WKHTML) -L 20mm -R 20mm $(INDEX) $(PDF)
 
 view:	html
 	xdg-open $(INDEX)&
