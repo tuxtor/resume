@@ -1,85 +1,192 @@
-<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+![](cvsmall.jpg) Víctor Leonel Orozco López
+===========================================
 
-Víctor Leonel Orozco López
-==========================
-![Photo](cvsmall.jpg)
+----
 
-- [Personal blog](http://tuxtor.shekalug.org/) 
-- [LinkedIn](http://br.linkedin.com/in/victororozco) 
+>”One of my most productive days was throwing away 1000 lines of code” - Ken Thompson
 
-Summary
-=======
-- **Software Developer:** Specialist in Free Software and Java Enterprise development, I'm also certified as Oracle Database Adminitrator by Tata Consultancy Services.
+----
 
-- **Academic:** As a student I was auxiliary teacher in two pregrade courses *Software Analysis and Design* and *Operative Systems*, also I was the first student of my generation to complete credits and courses in record time (9 of 10 semesters).
-
-- **Software Activism:** Active member in FLOSS communities at Guatemala, founder member of [San Marcos Linux Users Group](http://www.shekalug.org) and Jug Leader at Guatemala Java Users Group, [GuateJUG](http://www.guate-jug.net).
-
-
-Experience
-=========
-## Bolsista CAPES
-Universidade Federal de Santa Maria  
-March 2012 – Present (9 months) Rio Grande Do Sul, Brazil  
-Research activities in Msc. Computer Science program, member of the group Gestão e Tecnologia em Segurança da Informação  (Administration and technology of information security)
-
-## JEE Sofware Architect
-[Soluciones Estrategicas S.A.](http://www.estrategicas.com/)  
-July 2010 – February 2012 (1 year 8 months) Guatemala  
-Software analysis and design, solutions implementation, SOA development, IT infrastructure design, FLOSS consultancy, high throughput algorithms, JEE5 and JEE6 development. 
-
-## Freelance Developer
-[Open Training](http://www.open-training.com/)  
-May 2009 – June 2010 (1 year 2 months) Guatemala  
-Java Web Development (Servlets, JSP, JSTL, persistence), Struts, Oracle Administration 
-
-##IT Consultant
-Asociación de Proyectos de Desarrollo  
-January 2005 – June 2010 (5 years 6 months) San Marcos, Guatemala  
-IT infrastructure administration, software implementation assistance and support, Linux server administration 
-
-##Teaching assistant 
-Universidad de San Carlos de Guatemala  
-Educational Institution; 5001-10,000 employees; Higher Education industry  
-July 2008 – November 2009 (1 year 5 months) Guatemala  
-Software Analysis and Design aux. instructor  
-Operative Systems aux. instructor
 
 Education
-=========
-##Universidade Federal de Santa Maria  
-Master of Science (MSc), Computer Science, 2012 - 2014 (ongoing)  
-Activities and Societies: Gestão e Tecnologia em Segurança da Informação (GTSeg)  
+---------
 
-##Universidad de San Carlos de Guatemala  
-Bachelor of Science (BSc), Computer Science and Information Systems, 2005 - 2009  
-Activities and Societies: Computer Science Students Association, LUGUSAC  
+2012-2013
+:	*Master of Science (MSc), Computer Science*  
+	Universidade Federal de Santa Maria (RS, Brazil)  
+	GPA: 3.84
 
-Honors and Awards
-=================
-##OEA-GCUB Schoolarship  
-Organization of American States, Grupo COIMBRA de Universidades Brasileñas  
-Master's schoolarship program on Brazil, selected between 3000 appliants  
+2005-2009 
+:	*Bachelor of Science (BSc), Computer Science and Information Systems*  
+	Universidad de San Carlos de Guatemala  (Guatemala City, Guatemala)  
+	Academic credits finished in record time (9 of 10 Semesters)
+
+Certifications
+--------------
+2008
+:	*Oracle Database Administration*  
+	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
+	Universidad de San Carlos de Guatemala
+
+
+Msc. Dissertation
+-----------------
+Title
+:	*Risk assessment in information security: Quantification of trust as a parameter for human biases reduction*
+
+Advisor
+:	Prof. Dr. Raul Ceretta Nunes
+
+Description
+: 	This dissertation explored the possibility of using computational techniques (specifically Social Network Analysis) to quantify trust in risk treatment context. Trust notion is used to improve risk assessment accuracy and the effectiveness of security investments. 
+
+Experience
+----------
+
+2012-2013
+: 	*CAPES Msc. fellow*  
+	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
+	Research activities in the Msc. in Computer Science program, member of the research group "Administration and Technologies in Information Security (Gestão e Tecnologia em Segurança da Informação)".
+
+2010-2012
+:	*JEE Software Architect*  
+	[Soluciones Estrategicas S.A.](http://www.mobilges.com/)  
+	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, JEE specialist. 
+
+2009-2010
+: 	*Freelance Developer*  
+	[Open Training](http://www.open-training.com/)  
+	Java Web Development (Servlets, JSP, JSTL, persistence), Struts, Oracle Administration.
+
+
+2005-2010
+:	*IT Consultant*  
+	Asociación de Proyectos de Desarrollo  
+	IT infrastructure administration, software implementation, assistance and support, Linux server administration.
+
+2008-2009
+:	*Teaching assistant*  
+	[Universidad de San Carlos de Guatemala](http://www.usac.edu.gt/)  
+	Software Analysis and Design aux. instructor  
+	Operating Systems aux. instructor
+
+IT Strengths
+------------
+Languages
+:	Java, Scala, Python, C, C++, HTML, CSS, TeX
+
+Platforms 
+:	JEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
+
+Databases
+:	MySQL, PostreSQL, MongoDB
+
+CS areas
+:	Software Engineering, Information Security, Social Network Analysis
+
+Awards
+------
+2011
+:	*Grad School Scholarship*  
+	[OEA-GCUB Schoolarship Program](http://www.grupocoimbra.org.br/coimbra/index.php?option=com_content&view=article&id=251:estudantes-selecionados-paec-20122013-oeagcub&catid=36:principal)  
+	First Generation - Selected between 5000 applicants
 
 Languages
-=========
-##English  
-Professional working proficiency  
+---------
+Spanish
+:	Native 
 
-##Portuguese  
-Working proficiency  
+English
+:	Professional working proficiency
 
-##Spanish  
-Native 
+Portuguese
+:	Full professional proficiency  
+	CELPE-Bras Certificate 201301002452
 
-Skills & expertise
-==================
-Linux, Open Source, MySQL, PostgreSQL, Gentoo, RedHat  
-Java, Hibernate, JPA, JEE, Tomcat, Glassfish, Seam, Spring, Maven, JSP  
-JavaScript, PHP, C++, HTML, SQL, CSS, C  
-Subversion, Git, Mercurial 
+Publications
+------------
+* *A new approach to improve accuracy in information security risk management.*  
+LÓPEZ, V. L. O. ; NUNES, R. C.  
+Eighth International Conference on Digital Society (ICDS 2014), 2014, Barcelona, Spain.
+IARIA, 2014. v. 1. p. 1-6. 
 
-Interests
-=========
-Computer Science, Software Development, Parallel Computing, Servers, FLOSS, Java, Gentoo
+* *Opinions classification in information security risk assessments with social networks analysis.*  
+LÓPEZ, V. L. O. ; NUNES, R. C.  
+Brazilian Workshop on Social Network Analysis and Mining (BraSNAM), 2013, Maceió, Alagoas.  
+XXXIII Congresso da Sociedade Brasileira de Computação (CSBC 2013).
+
+* *Building Situation Awareness to Monitor Critical Infrastructures.*  
+PETRI, Giani ; NUNES, R. C. ; SANTOS, O. M. ; CEOLIN JUNIOR, T. ; LÓPEZ, V. L. O.  
+Latin-American Symposium on Dependable Computing, 2013, Rio de Janeiro-RJ.
+
+* *KBAM: Data Model of a Knowledge Base for Monitoring Attacks.*  
+PETRI, Giani ; NUNES, R. C. ; SANTOS, O. M. ; CEOLIN JUNIOR, T. ; LÓPEZ, V. L. O.  
+Latin-American Symposium on Dependable Computing, 2013, Rio de Janeiro-RJ.
+
+* *Definição do Comitê de Análise/Avaliação de Riscos Baseado em Competências.*  
+Primão, A. P. ; NUNES, R. C. ; LÓPEZ, V. L. O.  
+XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-Paraguai: UNA, 2012. v. 01. p. 01-11.
+
+* *Distributed compilation with Distcc and Icecream clusters using Gentoo, a benchmarking study case.*  
+LÓPEZ, V. L. O. ; LOBOS, J. F.  
+Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
+
+
+Talks[^1]
+---------
+* Getting started with Free Software • Latin American Festival of Free Software - San Marcos, Guatemala • Abr 2014
+* Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013
+* High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
+* New features in Java 7 • Java Day Guatemala - Guatejug • Oct 2011
+* Java security and frameworks • OWASP Day Guatemala • Ago 2011
+* Java as development platform • Guatemalan Congress of Free Software • Nov 2010
+* Java applications development with QT Jambi • Guatemalan Congress of Free Software • Oct 2010
+* A brief introduction to the Java language • Third Engineering Congress - Universidad Mesoamericana de Guatemala - Quetzaltenango, Guatemala • Ago 2009
+* Linux security fundamentals • Second Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Ago 2009
+* SOA, WEb Services and other stuff - Second Barcamp - Universidad de San Carlos de Guatemala • Jul 2009
+* Free Software in Guatemala • Free Software Saturdays - Linux Users Group - Universidad de San Carlos de Guatemala • Jul 2009
+* Using Hibernate as ORM in JDeveloper • Guatemalan Congress of Computer Science and Information Systems • Abr 2009
+* Developing OOP applications with Netbeans • Science and Technology convention - Universidad Mariano Galvez - San Marcos • Sept 2008
+* Creating Java applications with Netbeans RCP • Guatemalan Congress of Free Software • Ago 2008
+* Getting started in Linux with Ubuntu • Linux Users Group - San Marcos, Guatemala • Mar 2008
+
+[^1]: Most of these are available at [Slideshare](http://www.slideshare.net/tuxtor/)
+
+
+
+Other interests
+---------------
+Backpacking, running, natural languages, science and free software advocacy.
+
+
+References
+----------
+-------------------------------------------- 	---------------------------------------------------
+*Ing. Andrea Rodas*<br />						*Inga. Maria Castillo*<br />
+General Department of Research<br />			Academic coordinator, CS Program<br />
+Universidad de San Carlos de Guatemala<br />	Universidad Rafael Landivar<br />
+andyscreations2012 \<at> gmail \<dot> com		carmen.castillo \<at> gmail \<dot> com
+
+
+*Ing. Javier Gramajo*<br />						*Ing. Jose Lobos*<br />
+CEO<br />										Bsc. thesis advisor<br />
+SQMOS<br />									 	Universidad de San Carlos de Guatemala<br />
+jgramajo \<at> gmail \<dot> com					joseflobos \<at> gmail \<dot> com  
+
+
+*Ing. Ricardo Morales*<br />					*Ing. Antonio Sobalvarro*<br />
+Tenured professor - CS Program<br />			CEO<br />
+Universidad de San Carlos de Guatemala<br />	Soluciones Estrategicas<br />
+ricardo.moralesp \<at> gmail \<dot> com			as \<at> mobilges \<dot> com 
+
+
+*Prof. Dr. Raul Ceretta Nunes*<br />			*Prof. Dr. Ana Trindade Winck*<br />
+Msc. dissertation advisor<br />					Tenured professor - CS Program<br />
+Universidade Federal de Santa Maria<br />		Universidade Federal de Santa Maria<br />
+ceretta \<at> inf \<dot> ufsm \<dot> br 		ana \<at> inf \<dot> ufsm \<dot> br
+--------------------------------------------	
+
+------
+> <me@vorozco.com> • +502 58783901 • 25 years old\
+> [Blog (Spanish)](http://tuxtor.shekalug.org/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
+> CV's source at: [GitHub](http://github.com/tuxtor/resume)
