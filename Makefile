@@ -1,21 +1,24 @@
 PAN=pandoc
 WKHTML=wkhtmltopdf
-INDEX=index.html
-PDF=resume.pdf
+RESUME=resume
+INDEX=index
 STYLE=style.css
-SOURCE=RESUME.md
+SOURCE=resume
+LINGUAS="" -es -pt_BR
+
 
 all:	html pdf
 
 
 html:
-	$(PAN) --standalone --from markdown --to html -c style.css -o $(INDEX) $(SOURCE)
+	$(foreach lingua,$(LINGUAS),$(PAN) --standalone --from markdown --to html -c $(STYLE) -o $(INDEX)$(lingua).html $(SOURCE)$(lingua).md;)
+	# $(SOURCE)-$(lingua).md
 
 pdf:
-	$(WKHTML) -L 20mm -R 20mm $(INDEX) $(PDF)
+	$(foreach lingua,$(LINGUAS), $(WKHTML) -L 20mm -R 20mm $(INDEX)$(lingua).html $(RESUME)$(lingua).pdf; )
 
 view:	html
-	xdg-open $(INDEX)&
+	xdg-open $(INDEX).html
 
 clean:
 	rm -rf *.pdf *.html

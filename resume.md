@@ -79,7 +79,7 @@ Platforms
 :	JEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
 
 Databases
-:	MySQL, PostreSQL, MongoDB
+:	Oracle, MySQL, PostreSQL, MongoDB
 
 CS areas
 :	Software Engineering, Information Security, Social Network Analysis
@@ -88,7 +88,7 @@ Awards
 ------
 2011
 :	*Grad School Scholarship*  
-	[OEA-GCUB Schoolarship Program](http://www.grupocoimbra.org.br/coimbra/index.php?option=com_content&view=article&id=251:estudantes-selecionados-paec-20122013-oeagcub&catid=36:principal)  
+	[OEA-GCUB Scholarship Program](http://www.grupocoimbra.org.br/coimbra/index.php?option=com_content&view=article&id=251:estudantes-selecionados-paec-20122013-oeagcub&catid=36:principal)  
 	First Generation - Selected between 5000 applicants
 
 Languages
@@ -143,7 +143,7 @@ Talks[^1]
 * Java applications development with QT Jambi • Guatemalan Congress of Free Software • Oct 2010
 * A brief introduction to the Java language • Third Engineering Congress - Universidad Mesoamericana de Guatemala - Quetzaltenango, Guatemala • Ago 2009
 * Linux security fundamentals • Second Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Ago 2009
-* SOA, WEb Services and other stuff - Second Barcamp - Universidad de San Carlos de Guatemala • Jul 2009
+* SOA, Web Services and other stuff - Second Barcamp - Universidad de San Carlos de Guatemala • Jul 2009
 * Free Software in Guatemala • Free Software Saturdays - Linux Users Group - Universidad de San Carlos de Guatemala • Jul 2009
 * Using Hibernate as ORM in JDeveloper • Guatemalan Congress of Computer Science and Information Systems • Abr 2009
 * Developing OOP applications with Netbeans • Science and Technology convention - Universidad Mariano Galvez - San Marcos • Sept 2008
@@ -195,6 +195,7 @@ Tenured professor - CS Program • Universidade Federal de Santa Maria
 ana \<at> inf \<dot> ufsm \<dot> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 25 years old\
-> [Blog (Spanish)](http://tuxtor.shekalug.org/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
-> CV's source at: [GitHub](http://github.com/tuxtor/resume)
+> <me@vorozco.com> • +502 58783901 • 25 years old<br />
+> [Blog (Spanish)](http://tuxtor.shekalug.org/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)<br />
+> CV's source at: [GitHub](http://github.com/tuxtor/resume)<br />
+> [Spanish](index-es.html) • [Portuguese](index-pt_BR.html)
