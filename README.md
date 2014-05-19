@@ -1,10 +1,9 @@
 resume
 ======
 
-My resume in markdown format
+This repository contains my resume, all has been created with markdown, pandoc, wkhtml2pdf and vim.
 
-This was created with markdown, pandoc and vim.
+You can check out the compiled versions at:
 
-See
-* My resume at [my hosting](http://tuxtor.shekalug.org/cv)
-* My resume at [github](https://github.com/tuxtor/resume/blob/master/RESUME.md)
+* [My hosting](http://tuxtor.shekalug.org/cv)
+* [github](https://github.com/tuxtor/resume/blob/master/RESUME.md)

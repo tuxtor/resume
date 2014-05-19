@@ -148,7 +148,7 @@ Palestras[^1]
 
 Outros Interesses
 -----------------
-Viajes, atletismo, idiomas, promoção e difusão da ciência e software livre.
+Viagens, atletismo, línguas, promoção e difusão da ciência e software livre.
 
 Referencias
 -----------
