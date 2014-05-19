@@ -1,7 +1,9 @@
 /*
- * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+ * Copyright 2014 Víctor Orozco <tuxtor@shekalug.org>
  *
  * CSS for making a resume with pandoc. Inspired by moderncv.
+ *
+ * Based on the original by Christophe-Marie Duquesne <chmd@chmd.fr>
  *
  * This CSS document is delivered to you under the CC BY-SA 3.0 License.
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
@@ -25,11 +27,6 @@ h1 {
     text-align:right;
     margin-bottom:15px;
 }
-/*h1:hover {
-    background-color: #757575;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}*/
 
 /* Titles of categories */
 h2 {
@@ -55,7 +52,6 @@ dt {
     float: left;
     clear: left;
     width: 17%;
-    /*font-weight: bold;*/
 }
 dd {
     margin-left: 17%;
@@ -76,10 +72,8 @@ a {
     color: #FF7417;
 }
 a:hover, a:active {
-    /*background-color: #FF7417;*/
     color: #ED6C15;
     text-decoration: underline;
-    /*text-shadow: 1px 1px 1px #333;*/
 }
 
 /* Horizontal separators */
@@ -89,9 +83,6 @@ hr {
 
 img { 
     float: left;
-    /*border-style:solid;
-    border-width:1px;
-    border-color: #FF7417;*/
     padding:10px;
 }
 
