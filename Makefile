@@ -9,6 +9,10 @@ LINGUAS="" -es -pt_BR
 
 all:	html pdf
 
+git-%:	html pdf
+	git add -A
+	git commit -m "$(@:git-%=%)"
+	git push origin master
 
 html:
 	$(foreach lingua,$(LINGUAS),$(PAN) --standalone --from markdown --to html -c $(STYLE) -o $(INDEX)$(lingua).html $(SOURCE)$(lingua).md;)
