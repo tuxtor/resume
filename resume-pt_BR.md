@@ -10,12 +10,12 @@
 Educação
 --------
 2012-2013
-:	*Mestre em Ciencias da Computação (MSc)*  
+:	*Mestre em Ciencia da Computação (MSc)*  
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84
 
 2005-2009 
-:	*Graduação em Ciencias da Computação e Sistemas de Informação*  
+:	*Graduação em Ciencia da Computação e Sistemas de Informação*  
 	Universidad de San Carlos de Guatemala  (Ciudad de Guatemala, Guatemala)  
 	Créditos académicos finalizados em tempo recorde (9 de 10 semestres)
 
@@ -39,6 +39,16 @@ Descrição
 
 Experiencia
 -----------
+2013-atualmente
+:       *Professor, Facultad de Engenharia*  
+        [Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Professor de tempo parcial na disciplina de introdução à programação de computadores.
+
+2013-atualmente
+:       *CTO/Fundador*  
+        [Nabenik](http://www.nabenik.com/)  
+	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da innovação
+
 2012-2013
 : 	*Bolsista CAPES*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
@@ -47,7 +57,7 @@ Experiencia
 2010-2012
 :	*Arquiteto de Software JEE*  
 	[Soluciones Estratégicas S.A.](http://www.mobilges.com/)  
-	Analise e desenvolvimento de software, desenvolvimento SOA, desenvolvimento para plataformas moveis (Android, Blackberry e iOS), infraestrutura de TI, consultoria de soluções com software livre, algoritmos de alto desempenho, especialista JEE. 
+	Analise e desenvolvimento de software, desenvolvimento SOA, desenvolvimento para plataformas moveis (Android, Blackberry e iOS), infraestrutura de TI.
 
 2009-2010
 : 	*Desenvolvedor Freelance*  
@@ -87,7 +97,7 @@ Prêmios
 	Primeira turma - Seleccionado entre 5000 solicitantes
 
 Idiomas
----------
+-------
 Espanhol
 :	Nativo 
 
@@ -142,9 +152,6 @@ Palestras[^1]
 * Utilizando Hiberate como ORM no JDeveloper • Congresso Guatemalteco de Estudantes de Ciências e Sistemas - Universidad de San Carlos de Guatemala • Abr 2009
 * Desenvolvimento de aplicativos orientados a objetos com Netbeans • Convenção de ciência e tecnologia - Universidad Mariano Galvez - San Marcos • Sept 2008
 * Criação de aplicativos Java com Netbeans RCP • Congresso Guatemalteco de Software Libre • Ago 2008
-* Iniciando em Linux com Ubuntu • Grupo de Usuários Linux de San Marcos, Guatemala • Mar 2008
-
-[^1]: Slides disponíveis em  [Slideshare](http://www.slideshare.net/tuxtor/)
 
 Outros Interesses
 -----------------
@@ -185,7 +192,6 @@ Professora associada - Departamento de Electrónica e Computação • Universid
 ana \<em> inf \<ponto> ufsm \<ponto> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 25 anos\
+> <me@vorozco.com> • +502 58783901 • 26 anos\
 > [Blog (espanhol)](http://tuxtor.shekalug.org/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
-> Código fonte do CV em: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Inglês](http://tuxtor.shekalug.org/cv/index.html) • [Espanhol](http://tuxtor.shekalug.org/cv/index-es.html)

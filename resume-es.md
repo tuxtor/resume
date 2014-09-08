@@ -26,8 +26,15 @@ Certificaciones
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
+2008
+:	*Desarrollo JEE 6*  
+	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
+	Universidad de San Carlos de Guatemala
+
+
 Disertación de Maestría
 -----------------------
+
 Titulo
 :	*Evaluación de riesgos en seguridad de información: Cuantificación de confianza como un parámetro de reducción de desvíos por causas humanas*
 
@@ -39,6 +46,17 @@ Descripción
 
 Experiencia
 -----------
+
+2013-actualmente
+:	*Catedratico, Facultad de Ingenieria*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Profesor de tiempo parcial del curso introducción a la programación de computadoras.
+
+2013-actualmente
+:	*CTO/Fundador*  
+	[Nabenik](http://www.nabenik.com/)  
+	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la inovación.
+
 2012-2013
 : 	*CAPES investigador asociado Msc.*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
@@ -126,8 +144,8 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
-Conferencias[^1]
-----------------
+Conferencias
+------------
 * Introducción al Software Libre • Festival Latinoamericano de Instalación de Software Libre - San Marcos, Guatemala • Abr 2014
 * Seguridad en redes WiFi • Escuela de educación profesional CIETEC - Santa Maria, RS, Brazil • Dic 2013
 * Flexibilidad y alto desempeño con Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dic 2012
@@ -143,8 +161,6 @@ Conferencias[^1]
 * Desarrollando aplicaciones orientadas a objetos con Netbeans • Convención de ciencia y tecnologia - Universidad Mariano Galvez - San Marcos • Sept 2008
 * Creando aplicaciones en Java con Netbeans RCP • Congreso Guatemalteco de Software Libre • Ago 2008
 * Iniciando en Linux con Ubuntu • Grupo de Usuarios Linux de San Marcos, Guatemala • Mar 2008
-
-[^1]: La mayoría de estas charlas están disponibles en [Slideshare](http://www.slideshare.net/tuxtor/)
 
 Otros intereses
 ---------------
@@ -185,7 +201,7 @@ Profesora asociada - Departamento de Electrónica y Computación • Universidad
 ana \<en> inf \<punto> ufsm \<punto> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 25 años\
+> <me@vorozco.com> • +502 58783901 • 26 años\
 > [Blog](http://tuxtor.shekalug.org/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
 > Código fuente del CV en: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Ingles](http://tuxtor.shekalug.org/cv/index.html) • [Portugués](http://tuxtor.shekalug.org/cv/index-pt_BR.html)

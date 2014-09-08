@@ -28,6 +28,11 @@ Certifications
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
+2008
+:	*JEE 6 Java Development*  
+	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
+	Universidad de San Carlos de Guatemala
+	
 
 Msc. Dissertation
 -----------------
@@ -42,6 +47,15 @@ Description
 
 Experience
 ----------
+2013-currently
+:	*Associated Professor*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Part-time professor of introduction to computers programing course.
+
+2013-currently
+: 	*CTO/Founder*  
+	[Nabenik](http://www.nabenik.com/)  
+	Joint venture focused on research and development of IT solutions and innovation management.
 
 2012-2013
 : 	*CAPES Msc. fellow*  
@@ -56,7 +70,7 @@ Experience
 2009-2010
 : 	*Freelance Developer*  
 	[Open Training](http://www.open-training.com/)  
-	Java Web Development (Servlets, JSP, JSTL, persistence), Struts, Oracle Administration.
+	Java Web Development (Servlets, JSP, JSTL, persistence), Struts, Richfaces, PostgreSQL Administration, Oracle Administration.
 
 
 2005-2010
@@ -153,6 +167,24 @@ Talks[^1]
 [^1]: Most of these are available at [Slideshare](http://www.slideshare.net/tuxtor/)
 
 
+Other activities
+----------------
+2013-currently
+:	*Gentoo Linux Spanish translation team*  
+	[Gentoo Foundation](http://www.gentoo.org/)  
+
+2012-currently
+:	*JUG advisory committee member*  
+	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
+
+2011-2012
+:	*JUG Leader*  
+	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
+
+2009-2010
+:	*Coordinator/Country leader*  
+	[Latin American Festival of Free Software](http://flisol.info/FLISOL2009/Guatemala)  	
+
 
 Other interests
 ---------------
@@ -162,40 +194,47 @@ Backpacking, running, natural languages, science and free software advocacy.
 References
 ----------
 
-* *Ing. Andrea Rodas*  
-General Department of Research • Universidad de San Carlos de Guatemala  
+* *Inga. Msc. Andrea Rodas*  
+General Department of Research  
+Universidad de San Carlos de Guatemala  
 andyscreations2012 \<at> gmail \<dot> com	
 
 * *Inga. Maria Castillo*  
-Academic coordinator - CS Program • Universidad Rafael Landivar  
+Academic coordinator  
+CS Program • Universidad Rafael Landivar  
 carmen.castillo \<at> gmail \<dot> com
 
 * *Ing. Javier Gramajo*  
-CEO • SQMOS  
+CEO • SQMOS    
 jgramajo \<at> gmail \<dot> com  
 
 * *Ing. Jose Lobos*  
-Bsc. thesis advisor • Universidad de San Carlos de Guatemala  
+Bsc. thesis advisor  
+Universidad de San Carlos de Guatemala  
 joseflobos \<at> gmail \<dot> com  
 
 * *Ing. Ricardo Morales*  					
-Tenured professor - CS Program • Universidad de San Carlos de Guatemala  	
+Tenured professor  
+CS Program • Universidad de San Carlos de Guatemala  	
 ricardo.moralesp \<at> gmail \<dot> com	 
 
 * *Ing. Antonio Sobalvarro*  
-CEO • Soluciones Estrategicas  
+CEO  
+Soluciones Estrategicas  
 as \<at> mobilges \<dot> com  
 
 * *Prof. Dr. Raul Ceretta Nunes*  			
-Msc. dissertation advisor •	Universidade Federal de Santa Maria  		
+Msc. dissertation advisor  
+Universidade Federal de Santa Maria  		
 ceretta \<at> inf \<dot> ufsm \<dot> br  
 
 * *Prof. Dr. Ana Trindade Winck*  
-Tenured professor - CS Program • Universidade Federal de Santa Maria  
+Tenured professor  
+CS Program • Universidade Federal de Santa Maria  
 ana \<at> inf \<dot> ufsm \<dot> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 25 years old<br />
+> <me@vorozco.com> • +502 58783901 • 26 years old<br />
 > [Blog (Spanish)](http://tuxtor.shekalug.org/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)<br />
 > CV's source at: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Spanish](http://tuxtor.shekalug.org/cv/index-es.html) • [Portuguese](http://tuxtor.shekalug.org/cv/index-pt_BR.html)
