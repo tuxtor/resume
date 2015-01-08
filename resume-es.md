@@ -11,8 +11,9 @@ Educación
 ---------
 2012-2013
 :	*Maestría en Ciencias (MSc), Ciencias de la Computación*  
+	Area de actuación: Seguridad de sistemas de información  
 	Universidade Federal de Santa Maria (RS, Brazil)  
-	GPA: 3.84
+	GPA: 3.84/A-
 
 2005-2009 
 :	*Ingeniería en Ciencias y Sistemas*  
@@ -146,6 +147,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Conferencias
 ------------
+* Mitos y realidades de la seguridad en Java • Java Day Guatemala - Guatejug • Oct 2014
 * Introducción al Software Libre • Festival Latinoamericano de Instalación de Software Libre - San Marcos, Guatemala • Abr 2014
 * Seguridad en redes WiFi • Escuela de educación profesional CIETEC - Santa Maria, RS, Brazil • Dic 2013
 * Flexibilidad y alto desempeño con Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dic 2012

@@ -13,6 +13,7 @@ Education
 
 2012-2013
 :	*Master of Science (MSc), Computer Science*  
+	Focus area: Information security  
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84
 
@@ -50,7 +51,7 @@ Experience
 2013-currently
 :	*Associated Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Part-time professor of introduction to computers programing course.
+	Part-time professor in introduction to computers programing course.
 
 2013-currently
 : 	*CTO/Founder*  
@@ -148,6 +149,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Talks[^1]
 ---------
+* Myths and realities of Java Security • Java Day Guatemala - Guatejug • Oct 2014
 * Getting started with Free Software • Latin American Festival of Free Software - San Marcos, Guatemala • Abr 2014
 * Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013
 * High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012

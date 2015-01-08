@@ -11,6 +11,7 @@ Educação
 --------
 2012-2013
 :	*Mestre em Ciencia da Computação (MSc)*  
+	Area de atuação: Segurança de sistemas de informação
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84
 
@@ -40,13 +41,13 @@ Descrição
 Experiencia
 -----------
 2013-atualmente
-:       *Professor, Facultad de Engenharia*  
-        [Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+:	*Professor, Facultad de Engenharia*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Professor de tempo parcial na disciplina de introdução à programação de computadores.
 
 2013-atualmente
-:       *CTO/Fundador*  
-        [Nabenik](http://www.nabenik.com/)  
+:	*CTO/Fundador*  
+	[Nabenik](http://www.nabenik.com/)  
 	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da innovação
 
 2012-2013
@@ -138,6 +139,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Palestras[^1]
 -------------
+* Mitos e realidades da segurança em Java • Java Day Guatemala - Guatejug • Oct 2014
 * Introdução ao Software Livre • Festival Latino-americano de Instalação de Software Libre - San Marcos, Guatemala • Abr 2014
 * Segurança em redes WiFi • Escola de educação profissional CIETEC - Santa Maria, RS, Brazil • Dic 2013
 * Flexibilidade e alto desempenho com Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dic 2012
