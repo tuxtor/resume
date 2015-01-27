@@ -48,17 +48,17 @@ Descripción
 Experiencia
 -----------
 
-2013-actualmente
-:	*Catedratico, Facultad de Ingenieria*  
-	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Profesor de tiempo parcial del curso introducción a la programación de computadoras.
-
-2013-actualmente
+2014-actualmente
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
 	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la inovación.
 
-2012-2013
+2014
+:	*Catedratico, Facultad de Ingenieria*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Profesor de tiempo parcial del curso introducción a la programación de computadoras.
+
+2012-2014
 : 	*CAPES investigador asociado Msc.*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
 	Actividades de investigación en el programa de ciencias de la computación. Miembro del grupo de investigación "Administración y Tecnologías en Seguridad de Información (Gestão e Tecnologia em Segurança da Informação)".

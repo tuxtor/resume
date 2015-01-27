@@ -48,17 +48,18 @@ Description
 
 Experience
 ----------
-2013-currently
+2014-currently
+: 	*CTO/Founder*  
+	[Nabenik](http://www.nabenik.com/)  
+	Joint venture focused on research and development of IT solutions and innovation management.
+	
+2014
 :	*Associated Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Part-time professor in introduction to computers programing course.
 
-2013-currently
-: 	*CTO/Founder*  
-	[Nabenik](http://www.nabenik.com/)  
-	Joint venture focused on research and development of IT solutions and innovation management.
 
-2012-2013
+2012-2014
 : 	*CAPES Msc. fellow*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
 	Research activities in the Msc. in Computer Science program, member of the research group "Administration and Technologies in Information Security (Gestão e Tecnologia em Segurança da Informação)".

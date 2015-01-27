@@ -40,17 +40,17 @@ Descrição
 
 Experiencia
 -----------
-2013-atualmente
-:	*Professor, Facultad de Engenharia*  
-	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Professor de tempo parcial na disciplina de introdução à programação de computadores.
-
-2013-atualmente
+2014-atualmente
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
 	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da innovação
 
-2012-2013
+2014
+:	*Professor, Facultad de Engenharia*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Professor de tempo parcial na disciplina de introdução à programação de computadores.
+
+2012-2014
 : 	*Bolsista CAPES*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
 	Atividades de pesquisa no programa de pós-graduação em informática. Integrante do grupo "Gestão e Tecnologia em Segurança da Informação (GtSeg)".
