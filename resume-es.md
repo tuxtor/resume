@@ -32,7 +32,6 @@ Certificaciones
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
-
 Disertación de Maestría
 -----------------------
 
@@ -40,20 +39,19 @@ Titulo
 :	*Evaluación de riesgos en seguridad de información: Cuantificación de confianza como un parámetro de reducción de desvíos por causas humanas*
 
 Asesor
-:	Prof. Dr. Raul Ceretta Nunes
+:	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
 
 Descripción
 : 	Esta disertación explora la posibilidad de utilizar técnicas computacionales (especificamente Analisis de Redes Sociales) para cuantificar confianza en el ámbito de tratamiento de riesgos. La noción de confianza es utilizada para mejorar la precisión y la efectividad de las inversiones en seguridad de información. 
 
 Experiencia
 -----------
-
 2014-actualmente
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
 	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la inovación.
 
-2014
+2014-2015
 :	*Catedratico, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Profesor de tiempo parcial del curso introducción a la programación de computadoras.
@@ -102,7 +100,7 @@ Premios
 ------
 2011
 :	*Beca de postgrado*  
-	[Programa de becas OEA-GCUB](http://www.grupocoimbra.org.br/coimbra/index.php?option=com_content&view=article&id=251:estudantes-selecionados-paec-20122013-oeagcub&catid=36:principal)  
+	Programa de becas OEA-GCUB
 	Primera generación - Seleccionado entre 5000 solicitantes
 
 Idiomas
@@ -145,8 +143,13 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
-Conferencias
-------------
+Conferencias[^1]
+----------------
+* Programación Funcional con Java 8 • Java Day Guatemala - Guatejug • Oct 2015
+* Aplicaciónes HTML5 con Java EE y AngularJS • V Congreso de Ingeniera de Oriente - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
+* Introducción al control de versiones con Git • VIII Simposio de Ingenieria - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2015
+* Java 8: Más funcional que nunca • Departamento de Transferencia Técnologica - ECYS/USAC • Sept 2015
+* Estado y retos de la gestión de seguridad de información • VII Simposio de Ingenieria - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2014
 * Mitos y realidades de la seguridad en Java • Java Day Guatemala - Guatejug • Oct 2014
 * Introducción al Software Libre • Festival Latinoamericano de Instalación de Software Libre - San Marcos, Guatemala • Abr 2014
 * Seguridad en redes WiFi • Escuela de educación profesional CIETEC - Santa Maria, RS, Brazil • Dic 2013
@@ -163,6 +166,8 @@ Conferencias
 * Desarrollando aplicaciones orientadas a objetos con Netbeans • Convención de ciencia y tecnologia - Universidad Mariano Galvez - San Marcos • Sept 2008
 * Creando aplicaciones en Java con Netbeans RCP • Congreso Guatemalteco de Software Libre • Ago 2008
 * Iniciando en Linux con Ubuntu • Grupo de Usuarios Linux de San Marcos, Guatemala • Mar 2008
+
+[^1]: Disponibles en [Slideshare](http://www.slideshare.net/tuxtor/)
 
 Otros intereses
 ---------------
@@ -203,7 +208,7 @@ Profesora asociada - Departamento de Electrónica y Computación • Universidad
 ana \<en> inf \<punto> ufsm \<punto> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 26 años\
+> <me@vorozco.com> • +502 58783901 • 27 años\
 > [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
 > Código fuente del CV en: [GitHub](http://github.com/tuxtor/resume)<br />
-> [Ingles](http://tuxtor.shekalug.org/cv/index.html) • [Portugués](http://tuxtor.shekalug.org/cv/index-pt_BR.html)
+> [Inglés](http://tuxtor.shekalug.org/cv/index.html) • [Portugués](http://tuxtor.shekalug.org/cv/index-pt_BR.html)

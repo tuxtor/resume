@@ -41,7 +41,7 @@ Title
 :	*Risk assessment in information security: Quantification of trust as a parameter for human biases reduction*
 
 Advisor
-:	Prof. Dr. Raul Ceretta Nunes
+:	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
 
 Description
 : 	This dissertation explored the possibility of using computational techniques (specifically Social Network Analysis) to quantify trust in risk treatment context. Trust notion is used to improve risk assessment accuracy and the effectiveness of security investments. 
@@ -53,7 +53,7 @@ Experience
 	[Nabenik](http://www.nabenik.com/)  
 	Joint venture focused on research and development of IT solutions and innovation management.
 	
-2014
+2014-2015
 :	*Associated Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Part-time professor in introduction to computers programing course.
@@ -104,7 +104,7 @@ Awards
 ------
 2011
 :	*Grad School Scholarship*  
-	[OEA-GCUB Scholarship Program](http://www.grupocoimbra.org.br/coimbra/index.php?option=com_content&view=article&id=251:estudantes-selecionados-paec-20122013-oeagcub&catid=36:principal)  
+	OEA-GCUB Scholarship Program
 	First Generation - Selected between 5000 applicants
 
 Languages
@@ -150,6 +150,11 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Talks[^1]
 ---------
+* Functional development with Java 8 • Java Day Guatemala - Guatejug • Oct 2015
+* HTML5 applications with Java EE and AngularJS • V Engineering Congress - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
+* Getting started with Git • VIII Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2015
+* Java 8: Functional than ever • Technology Transference Department - ECYS/USAC • Sept 2015
+* State and challenges of Information Security • VII Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2014
 * Myths and realities of Java Security • Java Day Guatemala - Guatejug • Oct 2014
 * Getting started with Free Software • Latin American Festival of Free Software - San Marcos, Guatemala • Abr 2014
 * Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013
@@ -159,7 +164,7 @@ Talks[^1]
 * Java as development platform • Guatemalan Congress of Free Software • Nov 2010
 * Java applications development with QT Jambi • Guatemalan Congress of Free Software • Oct 2010
 * A brief introduction to the Java language • Third Engineering Congress - Universidad Mesoamericana de Guatemala - Quetzaltenango, Guatemala • Ago 2009
-* Linux security fundamentals • Second Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Ago 2009
+* Linux security fundamentals • II Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Ago 2009
 * SOA, Web Services and other stuff - Second Barcamp - Universidad de San Carlos de Guatemala • Jul 2009
 * Free Software in Guatemala • Free Software Saturdays - Linux Users Group - Universidad de San Carlos de Guatemala • Jul 2009
 * Using Hibernate as ORM in JDeveloper • Guatemalan Congress of Computer Science and Information Systems • Abr 2009
@@ -177,7 +182,7 @@ Other activities
 	[Gentoo Foundation](http://www.gentoo.org/)  
 
 2012-currently
-:	*JUG advisory committee member*  
+:	*JUG board member*  
 	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
 
 2011-2012
@@ -237,7 +242,7 @@ CS Program • Universidade Federal de Santa Maria
 ana \<at> inf \<dot> ufsm \<dot> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 26 years old<br />
+> <me@vorozco.com> • +502 58783901 • 27 years old<br />
 > [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)<br />
 > CV's source at: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Spanish](http://tuxtor.shekalug.org/cv/index-es.html) • [Portuguese](http://tuxtor.shekalug.org/cv/index-pt_BR.html)

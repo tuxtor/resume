@@ -33,7 +33,7 @@ Titulo
 :	*Análise/avaliação de riscos de segurança de informação: Quantificação de confiança como um parâmetro de redução de desvios de resultados por causas humanas*	
 
 Orientador
-:	Prof. Dr. Raul Ceretta Nunes
+:	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
 
 Descrição
 : 	Esta dissertação explora a possibilidade no uso de técnicas computacionais (Analise de Redes Sociais) para quantificar a confiança no contexto de tratamento de riscos de segurança. A noção de confiança é utilizada posteriormente para melhorar a precisão e efetividade dos investimentos em segurança de informação.
@@ -43,10 +43,10 @@ Experiencia
 2014-atualmente
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
-	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da innovação
+	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da inovação
 
-2014
-:	*Professor, Facultad de Engenharia*  
+2014-2015
+:	*Professor, Faculdade de Engenharia*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Professor de tempo parcial na disciplina de introdução à programação de computadores.
 
@@ -94,7 +94,7 @@ Prêmios
 ------
 2011
 :	*Bolsa de mestrado*  
-	[Programa de bolsas OEA-GCUB](http://www.grupocoimbra.org.br/coimbra/index.php?option=com_content&view=article&id=251:estudantes-selecionados-paec-20122013-oeagcub&catid=36:principal)  
+	Programa de bolsas OEA-GCUB
 	Primeira turma - Seleccionado entre 5000 solicitantes
 
 Idiomas
@@ -139,6 +139,11 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Palestras[^1]
 -------------
+* Desenvolvimento funcional com Java 8 • Java Day Guatemala - Guatejug • Oct 2015
+* Aplicativos HTML5 com Java EE e AngularJS • V Congresso de engenharia - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
+* Introdução ao versionamento de código com Git • VIII simpósio de engenharia - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2015
+* Java 8: Mais funcional do que nunca • Departamento de Transferência Tecnologia - ECYS/USAC • Sept 2015
+* Estado e desafios da gestão de segurança de informação • VII simpósio de engenharia - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2014
 * Mitos e realidades da segurança em Java • Java Day Guatemala - Guatejug • Oct 2014
 * Introdução ao Software Livre • Festival Latino-americano de Instalação de Software Libre - San Marcos, Guatemala • Abr 2014
 * Segurança em redes WiFi • Escola de educação profissional CIETEC - Santa Maria, RS, Brazil • Dic 2013
@@ -148,7 +153,7 @@ Palestras[^1]
 * Java como plataforma de desenvolvimento • Congresso Guatemalteco de Software Livre • Nov 2010
 * Desenvolvimento de aplicativos Java com QT Jambi • Congresso Guatemalteco de Software Livre • Oct 2010
 * Introdução à linguagem Java • Terceiro congresso de engenharia - Universidad Mesoamericana de Guatemala - Quetzaltenango, Guatemala • Ago 2009
-* Noções básicas de segurança em Linux • Segundo simpósio de engenharia - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Ago 2009
+* Noções básicas de segurança em Linux • II simpósio de engenharia - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Ago 2009
 * SOA, Web Services e mais - Segundo Barcamp Guatemala - Universidad de San Carlos de Guatemala • Jul 2009
 * Software Livre em Guatemala • Sábados de Software Livre - Universidad de San Carlos de Guatemala • Jul 2009
 * Utilizando Hiberate como ORM no JDeveloper • Congresso Guatemalteco de Estudantes de Ciências e Sistemas - Universidad de San Carlos de Guatemala • Abr 2009
@@ -194,6 +199,6 @@ Professora associada - Departamento de Electrónica e Computação • Universid
 ana \<em> inf \<ponto> ufsm \<ponto> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 26 anos\
+> <me@vorozco.com> • +502 58783901 • 27 anos\
 > [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
 > [Inglês](http://tuxtor.shekalug.org/cv/index.html) • [Espanhol](http://tuxtor.shekalug.org/cv/index-es.html)
