@@ -245,4 +245,4 @@ ana \<at> inf \<dot> ufsm \<dot> br
 > <me@vorozco.com> • +502 58783901 • 27 years old<br />
 > [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)<br />
 > CV's source at: [GitHub](http://github.com/tuxtor/resume)<br />
-> [Spanish](http://tuxtor.shekalug.org/cv/index-es.html) • [Portuguese](http://tuxtor.shekalug.org/cv/index-pt_BR.html)
+> [Spanish](http://vorozco.com/cv/index-es.html) • [Portuguese](http://vorozco.com/cv/index-pt_BR.html)
