@@ -6,6 +6,19 @@
 >”One of my most productive days was throwing away 1000 lines of code” - Ken Thompson
 
 ----
+Dados de contato
+----------------
+E-mail
+:	me@vorozco.com
+
+Telefone
+: +502 58783901
+
+Sitio Web
+: [http://vorozco.com/](http://vorozco.com/)
+
+Idade
+: 27 anos
 
 Educação
 --------
@@ -15,7 +28,7 @@ Educação
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84
 
-2005-2009 
+2005-2009
 :	*Graduação em Ciencia da Computação e Sistemas de Informação*  
 	Universidad de San Carlos de Guatemala  (Ciudad de Guatemala, Guatemala)  
 	Créditos académicos finalizados em tempo recorde (9 de 10 semestres)
@@ -30,7 +43,7 @@ Certificações
 Dissertação de Mestrado
 ----------------------
 Titulo
-:	*Análise/avaliação de riscos de segurança de informação: Quantificação de confiança como um parâmetro de redução de desvios de resultados por causas humanas*	
+:	*Análise/avaliação de riscos de segurança de informação: Quantificação de confiança como um parâmetro de redução de desvios de resultados por causas humanas*
 
 Orientador
 :	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
@@ -40,6 +53,12 @@ Descrição
 
 Experiencia
 -----------
+2014-atualmente
+:	*Professor, Faculdade de Engenharia*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Professor de Ciencia da Computação, Introducção à Inteligência Artificial 
+	Professor de Engenharia Aplicada, Modelação e Simulação de Sistemas
+
 2014-atualmente
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
@@ -100,12 +119,12 @@ Prêmios
 Idiomas
 -------
 Espanhol
-:	Nativo 
+:	Nativo
 
 Inglês
 :	Proficiência nível avançado
 
-Português 
+Português
 :	Proficiência nível avançado  
 	Certificado CELPE-Bras 201301002452
 
@@ -114,7 +133,7 @@ Publicações
 * *A new approach to improve accuracy in information security risk management.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
 Eighth International Conference on Digital Society (ICDS 2014), 2014, Barcelona, Spain.
-IARIA, 2014. v. 1. p. 1-6. 
+IARIA, 2014. v. 1. p. 1-6.
 
 * *Opinions classification in information security risk assessments with social networks analysis.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
@@ -199,7 +218,5 @@ Professora associada - Departamento de Electrónica e Computação • Universid
 ana \<em> inf \<ponto> ufsm \<ponto> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 27 anos\
-> [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
-> Código fonte do CV: [GitHub](http://github.com/tuxtor/resume)<br />
+> [LinkedIn](http://gt.linkedin.com/in/victororozco) • Código fonte do CV: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Inglês](http://vorozco.com/cv/index.html) • [Espanhol](http://vorozco.com/cv/index-es.html)

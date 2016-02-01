@@ -1,11 +1,24 @@
 ![](cvsmall.jpg) Víctor Leonel Orozco López
 ===========================================
-
 ----
 
 >”One of my most productive days was throwing away 1000 lines of code” - Ken Thompson
 
 ----
+
+Datos Personales
+---------
+E-mail
+:	me@vorozco.com
+
+Télefono
+: +502 58783901
+
+Website
+: [http://vorozco.com/](http://vorozco.com/)
+
+Edad
+: 27 años
 
 Educación
 ---------
@@ -15,7 +28,7 @@ Educación
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84/A-
 
-2005-2009 
+2005-2009
 :	*Ingeniería en Ciencias y Sistemas*  
 	Universidad de San Carlos de Guatemala  (Ciudad de Guatemala, Guatemala)  
 	Créditos académicos finalizados en tiempo récord (9 de 10 semestres)
@@ -42,10 +55,16 @@ Asesor
 :	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
 
 Descripción
-: 	Esta disertación explora la posibilidad de utilizar técnicas computacionales (especificamente Analisis de Redes Sociales) para cuantificar confianza en el ámbito de tratamiento de riesgos. La noción de confianza es utilizada para mejorar la precisión y la efectividad de las inversiones en seguridad de información. 
+: 	Esta disertación explora la posibilidad de utilizar técnicas computacionales (especificamente Analisis de Redes Sociales) para cuantificar confianza en el ámbito de tratamiento de riesgos. La noción de confianza es utilizada para mejorar la precisión y la efectividad de las inversiones en seguridad de información.
 
 Experiencia
 -----------
+2016-actualmente
+:	*Catedratico, Facultad de Ingenieria*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Profesor de ciencias de la computación, Introducción a Inteligencia Artificial  
+	Profesor de ingenieria aplicada, Modelación y Simulación de Sistemas
+
 2014-actualmente
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
@@ -57,14 +76,14 @@ Experiencia
 	Profesor de tiempo parcial del curso introducción a la programación de computadoras.
 
 2012-2014
-: 	*CAPES investigador asociado Msc.*  
+: *CAPES investigador asociado Msc.*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
 	Actividades de investigación en el programa de ciencias de la computación. Miembro del grupo de investigación "Administración y Tecnologías en Seguridad de Información (Gestão e Tecnologia em Segurança da Informação)".
 
 2010-2012
 :	*Arquitecto de Software JEE*  
 	[Soluciones Estratégicas S.A.](http://www.mobilges.com/)  
-	Análisis y diseño de software, desarrollo SOA, desarrollo para plataforma móviles (Android, Blackberry e iOS), diseño de infraestructura de TI, consultoría en software libre, algoritmos de alto desempeño, especialista JEE. 
+	Análisis y diseño de software, desarrollo SOA, desarrollo para plataforma móviles (Android, Blackberry e iOS), diseño de infraestructura de TI, consultoría en software libre, algoritmos de alto desempeño, especialista JEE.
 
 2009-2010
 : 	*Desarrollador Freelance*  
@@ -106,12 +125,12 @@ Premios
 Idiomas
 ---------
 Español
-:	Nativo 
+:	Nativo
 
 Ingles
 :	Nivel profesional
 
-Portugués 
+Portugués
 :	Nivel avanzado  
 	Certificado CELPE-Bras 201301002452
 
@@ -120,7 +139,7 @@ Publicaciones
 * *A new approach to improve accuracy in information security risk management.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
 Eighth International Conference on Digital Society (ICDS 2014), 2014, Barcelona, Spain.
-IARIA, 2014. v. 1. p. 1-6. 
+IARIA, 2014. v. 1. p. 1-6.
 
 * *Opinions classification in information security risk assessments with social networks analysis.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
@@ -177,7 +196,7 @@ Referencias
 -----------
 * *Ing. Andrea Rodas*  
 DIGI • Universidad de San Carlos de Guatemala  
-andyscreations2012 \<en> gmail \<punto> com	
+andyscreations2012 \<en> gmail \<punto> com
 
 * *Inga. Maria Castillo*  
 Coordinadora académica - Ingeniería en Sistemas • Universidad Rafael Landivar  
@@ -208,7 +227,5 @@ Profesora asociada - Departamento de Electrónica y Computación • Universidad
 ana \<en> inf \<punto> ufsm \<punto> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 27 años\
-> [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)\
-> Código fuente del CV en: [GitHub](http://github.com/tuxtor/resume)<br />
+> [LinkedIn](http://gt.linkedin.com/in/victororozco) • Código fuente del CV en: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Inglés](http://vorozco.com/cv/index.html) • [Portugués](http://vorozco.com/cv/index-pt_BR.html)

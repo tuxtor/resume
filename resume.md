@@ -6,7 +6,19 @@
 >”One of my most productive days was throwing away 1000 lines of code” - Ken Thompson
 
 ----
+Personal Details
+---------
+E-mail
+:	me@vorozco.com
 
+Phone number
+: +502 58783901
+
+Website
+: [http://vorozco.com/](http://vorozco.com/)
+
+Age
+: 27 years old
 
 Education
 ---------
@@ -17,7 +29,7 @@ Education
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84
 
-2005-2009 
+2005-2009
 :	*Bachelor of Science (BSc), Computer Science and Information Systems*  
 	Universidad de San Carlos de Guatemala  (Guatemala City, Guatemala)  
 	Academic credits finished in record time (9 of 10 Semesters)
@@ -33,7 +45,7 @@ Certifications
 :	*JEE 6 Java Development*  
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
-	
+
 
 Msc. Dissertation
 -----------------
@@ -44,15 +56,21 @@ Advisor
 :	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
 
 Description
-: 	This dissertation explored the possibility of using computational techniques (specifically Social Network Analysis) to quantify trust in risk treatment context. Trust notion is used to improve risk assessment accuracy and the effectiveness of security investments. 
+: 	This dissertation explored the possibility of using computational techniques (specifically Social Network Analysis) to quantify trust in risk treatment context. Trust notion is used to improve risk assessment accuracy and the effectiveness of security investments.
 
 Experience
 ----------
+2016-currently
+:	*Associated Professor*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Computer Science Professor, Introduction to Artificial Intelligence 
+	Applied Engineering Professor, Modeling and Systems Simulation
+
 2014-currently
 : 	*CTO/Founder*  
 	[Nabenik](http://www.nabenik.com/)  
 	Joint venture focused on research and development of IT solutions and innovation management.
-	
+
 2014-2015
 :	*Associated Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
@@ -67,7 +85,7 @@ Experience
 2010-2012
 :	*JEE Software Architect*  
 	[Soluciones Estrategicas S.A.](http://www.mobilges.com/)  
-	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, JEE specialist. 
+	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, JEE specialist.
 
 2009-2010
 : 	*Freelance Developer*  
@@ -91,7 +109,7 @@ IT Strengths
 Languages
 :	Java, Scala, Python, C, C++, HTML, CSS, TeX
 
-Platforms 
+Platforms
 :	JEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
 
 Databases
@@ -110,7 +128,7 @@ Awards
 Languages
 ---------
 Spanish
-:	Native 
+:	Native
 
 English
 :	Professional working proficiency
@@ -124,7 +142,7 @@ Publications
 * *A new approach to improve accuracy in information security risk management.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
 Eighth International Conference on Digital Society (ICDS 2014), 2014, Barcelona, Spain.
-IARIA, 2014. v. 1. p. 1-6. 
+IARIA, 2014. v. 1. p. 1-6.
 
 * *Opinions classification in information security risk assessments with social networks analysis.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
@@ -205,7 +223,7 @@ References
 * *Inga. Msc. Andrea Rodas*  
 General Department of Research  
 Universidad de San Carlos de Guatemala  
-andyscreations2012 \<at> gmail \<dot> com	
+andyscreations2012 \<at> gmail \<dot> com
 
 * *Inga. Maria Castillo*  
 Academic coordinator  
@@ -242,7 +260,5 @@ CS Program • Universidade Federal de Santa Maria
 ana \<at> inf \<dot> ufsm \<dot> br  
 
 ------
-> <me@vorozco.com> • +502 58783901 • 27 years old<br />
-> [Blog](http://vorozco.com/) • [LinkedIn](http://gt.linkedin.com/in/victororozco)<br />
-> CV's source at: [GitHub](http://github.com/tuxtor/resume)<br />
+> [LinkedIn](http://gt.linkedin.com/in/victororozco) • CV's source at: [GitHub](http://github.com/tuxtor/resume)<br />
 > [Spanish](http://vorozco.com/cv/index-es.html) • [Portuguese](http://vorozco.com/cv/index-pt_BR.html)
