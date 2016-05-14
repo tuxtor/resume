@@ -7,6 +7,7 @@
 
 ----
 
+
 Datos Personales
 ---------
 E-mail
@@ -61,15 +62,22 @@ Descripción
 Experiencia
 -----------
 2016-actualmente
+:	*Profesor asociado, Facultad de Ingenieria*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Profesor asociado al Departamento de Computación, Facultad de Ingenieria  
+	Cursos: Inteligencia Artificial, Modelación y Simulación, Programación Avanzada
+
+2016
 :	*Catedratico, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Profesor de ciencias de la computación, Introducción a Inteligencia Artificial  
-	Profesor de ingenieria aplicada, Modelación y Simulación de Sistemas
+	Profesor de Ciencias de la Computación, Introducción a Inteligencia Artificial  
+	Análisis de datos, aprendizaje de maquina
 
 2014-actualmente
-:	*CTO/Fundador*  
+:	*Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
-	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la inovación.
+	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
+	Desarrollo de aplicaciones de alto desempeño, software empresarial y movil.
 
 2014-2015
 :	*Catedratico, Facultad de Ingenieria*  
@@ -105,16 +113,16 @@ Experiencia
 Habilidades TI
 --------------
 Lenguajes
-:	Java, Scala, Python, C, C++, HTML, CSS, TeX
+:	Java, JavaScript, Scala, Python, C, C++, HTML, CSS, TeX
 
-Plataformas
-:	JEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
+Plataformas  
+:	JEE, JSE, AngularJS, JavaFX, Android, iOS, Spring, QT
 
 Bases de datos
 :	Oracle, MySQL, PostreSQL, MongoDB
 
 Áreas de CS
-:	Ingeniería de Software, Seguridad de Información, Análisis de Redes Sociales
+:	Ingeniería de Software, Seguridad de Información, Inteligencia Artificial y Análisis de Redes Sociales
 
 Premios
 ------
@@ -165,6 +173,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Conferencias[^1]
 ----------------
+* Privacidad vs datos abiertos • Primer foro de técnologias para la prevención del delito • Ministerio de gobernación Guatemala • Mar 2016
 * Programación Funcional con Java 8 • Java Day Guatemala - Guatejug • Oct 2015
 * Aplicaciónes HTML5 con Java EE y AngularJS • V Congreso de Ingeniera de Oriente - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
 * Introducción al control de versiones con Git • VIII Simposio de Ingenieria - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2015
@@ -188,6 +197,24 @@ Conferencias[^1]
 * Iniciando en Linux con Ubuntu • Grupo de Usuarios Linux de San Marcos, Guatemala • Mar 2008
 
 [^1]: Disponibles en [Slideshare](http://www.slideshare.net/tuxtor/)
+
+Otras actividades
+----------------
+2013-currently
+:	*Equipo de traducción Gentoo Linux*  
+	[Gentoo Foundation](http://www.gentoo.org/)  
+
+2012-currently
+:	*Miembro directivo*  
+	[Grupo de Usuarios Java de Guatemala](https://www.facebook.com/Guate.Java.User.Group/)  	
+
+2011-2012
+:	*JUG Leader*  
+	[Grupo de Usuarios Java de Guatemala](https://www.facebook.com/Guate.Java.User.Group/)  	
+
+2009-2010
+:	*Coordinador nacional*  
+	[Festival Latinoamericano de Instalación de Software Libre](http://flisol.info/FLISOL2009/Guatemala)  	
 
 Otros intereses
 ---------------
