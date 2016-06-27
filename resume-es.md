@@ -20,7 +20,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 27 años
+: 28 años
 
 Educación
 ---------
