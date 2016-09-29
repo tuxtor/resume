@@ -1,5 +1,5 @@
 /*
- * Copyright 2014 Víctor Orozco <tuxtor@shekalug.org>
+ * Copyright 2016 Víctor Orozco <tuxtor@shekalug.org>
  *
  * CSS for making a resume with pandoc. Inspired by moderncv.
  *
@@ -10,10 +10,10 @@
  */
 
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic);
 /* Whole document */
 body {
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
     width: 800px;
     margin: auto;
     background: #FFFFFF;
@@ -55,6 +55,7 @@ dt {
 }
 dd {
     margin-left: 17%;
+    margin-bottom:10px;
 }
 p {
     margin-top:0;

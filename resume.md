@@ -19,7 +19,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Age
-: 27 years old
+: 28 years old
 
 Education
 ---------
@@ -62,10 +62,9 @@ Description
 Experience
 ----------
 2016-currently
-:	*Associated Professor*  
+:	*Assistant Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Computer Science Professor, Introduction to Artificial Intelligence 
-	Applied Engineering Professor, Modeling and Systems Simulation
+	Computer Science Department. Covering Artificial Intelligence and Modeling and Simulation areas.
 
 2014-currently
 : 	*CTO/Founder*  
@@ -121,9 +120,14 @@ CS areas
 
 Awards
 ------
+2016
+:	*Duke's Choice Award*  
+	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
+	Community award for “The Duke’s Adventures” Project
+
 2011
 :	*Grad School Scholarship*  
-	OEA-GCUB Scholarship Program
+	OEA-GCUB Scholarship Program  
 	First Generation - Selected between 5000 applicants
 
 Languages
@@ -166,9 +170,19 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
+Highlighted Talks [^1]
+-----------------------------------------
+* Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
+* A new approach to improve accuracy in information security risk management • Eighth International Conference on Digital Society - Barcelona, Spain • Mar 2014
+* Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013
+* Opinions classification in information security risk assessments with social networks analysis • XXXIII Congresso da Sociedade Brasileira de Computação (CSBC 2013) - Maceio, AL, Brazil • Apr 2013
+* High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
+* Distributed compilation with Distcc and Icecream clusters using Gentoo, a benchmarking study case • Forum Internacional de Software Livre (FISL) - Porto Alegre, RS Brazil • Apr 2012
 
 Talks[^1]
----------
+---------------
+* Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • July 2016
+* Privacy vs Open Data • Technologies for crime prevention forum • Ministerio de Gobernación Guatemala • Mar 2016
 * Functional development with Java 8 • Java Day Guatemala - Guatejug • Oct 2015
 * HTML5 applications with Java EE and AngularJS • V Engineering Congress - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
 * Getting started with Git • VIII Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2015
@@ -176,8 +190,6 @@ Talks[^1]
 * State and challenges of Information Security • VII Engineering Symposium - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2014
 * Myths and realities of Java Security • Java Day Guatemala - Guatejug • Oct 2014
 * Getting started with Free Software • Latin American Festival of Free Software - San Marcos, Guatemala • Abr 2014
-* Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013
-* High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
 * New features in Java 7 • Java Day Guatemala - Guatejug • Oct 2011
 * Java security and frameworks • OWASP Day Guatemala • Ago 2011
 * Java as development platform • Guatemalan Congress of Free Software • Nov 2010
@@ -196,11 +208,15 @@ Talks[^1]
 
 Other activities
 ----------------
-2013-currently
+2016-currently
+:	*JUG Leader*  
+	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
+
+2013-2015
 :	*Gentoo Linux Spanish translation team*  
 	[Gentoo Foundation](http://www.gentoo.org/)  
 
-2012-currently
+2012-2015
 :	*JUG board member*  
 	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
 

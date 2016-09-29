@@ -126,6 +126,11 @@ Bases de datos
 
 Premios
 ------
+2016
+:	*Duke's Choice Award*  
+	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
+	Galardon comunitario en la categoria Educational Outreach Award por el proyecto “The Duke’s Adventures”
+
 2011
 :	*Beca de postgrado*  
 	Programa de becas OEA-GCUB
@@ -173,6 +178,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Conferencias[^1]
 ----------------
+* Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
+* Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Privacidad vs datos abiertos • Primer foro de técnologias para la prevención del delito • Ministerio de gobernación Guatemala • Mar 2016
 * Programación Funcional con Java 8 • Java Day Guatemala - Guatejug • Oct 2015
 * Aplicaciónes HTML5 con Java EE y AngularJS • V Congreso de Ingeniera de Oriente - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
@@ -200,11 +207,15 @@ Conferencias[^1]
 
 Otras actividades
 ----------------
-2013-currently
+2016-currently
+:	*JUG Leader*  
+	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
+
+2013-2015
 :	*Equipo de traducción Gentoo Linux*  
 	[Gentoo Foundation](http://www.gentoo.org/)  
 
-2012-currently
+2012-2015
 :	*Miembro directivo*  
 	[Grupo de Usuarios Java de Guatemala](https://www.facebook.com/Guate.Java.User.Group/)  	
 

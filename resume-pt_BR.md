@@ -57,7 +57,7 @@ Experiencia
 2014-atualmente
 :	*Professor, Faculdade de Engenharia*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Professor de Ciencia da Computação, Introducção à Inteligência Artificial 
+	Professor de Ciencia da Computação, Introducção à Inteligência Artificial
 	Professor de Engenharia Aplicada, Modelação e Simulação de Sistemas
 
 2014-atualmente
@@ -112,6 +112,11 @@ Bancos de dados
 
 Prêmios
 ------
+2016
+:	*Duke's Choice Award*  
+	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
+	Educational Outreach Award pelo projeto “The Duke’s Adventures”
+
 2011
 :	*Bolsa de mestrado*  
 	Programa de bolsas OEA-GCUB
@@ -159,6 +164,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Palestras[^1]
 -------------
+* Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
+* Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Desenvolvimento funcional com Java 8 • Java Day Guatemala - Guatejug • Oct 2015
 * Aplicativos HTML5 com Java EE e AngularJS • V Congresso de engenharia - USAC-Cunori - Chiquimula, Guatemala • Oct 2015
 * Introdução ao versionamento de código com Git • VIII simpósio de engenharia - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2015
