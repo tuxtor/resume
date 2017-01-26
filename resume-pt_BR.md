@@ -19,7 +19,7 @@ Sitio Web
 : [http://vorozco.com/](http://vorozco.com/)
 
 Idade
-: 27 anos
+: 28 anos
 
 Educação
 --------
@@ -36,6 +36,10 @@ Educação
 
 Certificações
 -------------
+2017
+:	*Oracle Certified Associate, Java SE 8 Programmer*  
+	Oracle Corporation  
+
 2008
 :	*Administração de bancos de dados*  
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  

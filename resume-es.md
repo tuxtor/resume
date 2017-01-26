@@ -37,6 +37,10 @@ Educación
 
 Certificaciones
 --------------
+2017
+:	*Oracle Certified Associate, Java SE 8 Programmer*  
+	Oracle Corporation  
+
 2008
 :	*Administración de bases de datos Oracle*  
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
