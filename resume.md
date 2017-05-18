@@ -52,6 +52,17 @@ Certifications
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
+Awards
+------
+2016
+:	*Duke's Choice Award*  
+	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
+	Community award for “The Duke’s Adventures” Project
+
+2011
+:	*Grad School Scholarship*  
+	OAS-GCUB Scholarship Program  
+	First Generation - Selected between 5000 applicants
 
 Msc. Dissertation
 -----------------
@@ -123,18 +134,6 @@ Databases
 CS areas
 :	Software Engineering, Information Security, Social Network Analysis
 
-Awards
-------
-2016
-:	*Duke's Choice Award*  
-	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
-	Community award for “The Duke’s Adventures” Project
-
-2011
-:	*Grad School Scholarship*  
-	OEA-GCUB Scholarship Program  
-	First Generation - Selected between 5000 applicants
-
 Languages
 ---------
 Spanish
@@ -177,6 +176,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Highlighted Talks [^1]
 -----------------------------------------
+* Reaching the Java Lambda Heaven • DevNexus - Atlanta, GA, United States • Feb 2017
 * Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
 * A new approach to improve accuracy in information security risk management • Eighth International Conference on Digital Society - Barcelona, Spain • Mar 2014
 * Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013

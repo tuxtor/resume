@@ -1,4 +1,4 @@
-![](cvsmall.jpg) Víctor Leonel Orozco López
+![](cvalt.png) Víctor Leonel Orozco López
 ===========================================
 
 ----
@@ -42,14 +42,26 @@ Certificaciones
 	Oracle Corporation  
 
 2008
-:	*Administración de bases de datos Oracle*  
+:	*Oracle DB Administration*  
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
 2008
-:	*Desarrollo JEE 6*  
+:	*Java EE 6 applications development*  
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
+
+Premios
+------
+2016
+:	*Duke's Choice Award*  
+	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
+	Galardon comunitario en la categoria Educational Outreach Award por el proyecto “The Duke’s Adventures”
+
+2011
+:	*Beca de postgrado*  
+	Programa de becas OEA-GCUB
+	Primera generación - Seleccionado entre 5000 solicitantes
 
 Disertación de Maestría
 -----------------------
@@ -128,17 +140,6 @@ Bases de datos
 Áreas de CS
 :	Ingeniería de Software, Seguridad de Información, Inteligencia Artificial y Análisis de Redes Sociales
 
-Premios
-------
-2016
-:	*Duke's Choice Award*  
-	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
-	Galardon comunitario en la categoria Educational Outreach Award por el proyecto “The Duke’s Adventures”
-
-2011
-:	*Beca de postgrado*  
-	Programa de becas OEA-GCUB
-	Primera generación - Seleccionado entre 5000 solicitantes
 
 Idiomas
 ---------
@@ -180,9 +181,18 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
+Conferencias internacionales[^1]
+-----------------------------------------
+* Reaching the Java Lambda Heaven • DevNexus - Atlanta, GA, United States • Feb 2017
+* Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
+* A new approach to improve accuracy in information security risk management • Eighth International Conference on Digital Society - Barcelona, Spain • Mar 2014
+* Security on WiFi Networks • CIETEC Professional Education School - Santa Maria, RS, Brazil • Dec 2013
+* Opinions classification in information security risk assessments with social networks analysis • XXXIII Congresso da Sociedade Brasileira de Computação (CSBC 2013) - Maceio, AL, Brazil • Apr 2013
+* High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
+* Distributed compilation with Distcc and Icecream clusters using Gentoo, a benchmarking study case • Forum Internacional de Software Livre (FISL) - Porto Alegre, RS Brazil • Apr 2012
+
 Conferencias[^1]
 ----------------
-* Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Privacidad vs datos abiertos • Primer foro de técnologias para la prevención del delito • Ministerio de gobernación Guatemala • Mar 2016
 * Programación Funcional con Java 8 • Java Day Guatemala - Guatejug • Oct 2015
@@ -192,8 +202,6 @@ Conferencias[^1]
 * Estado y retos de la gestión de seguridad de información • VII Simposio de Ingenieria - Universidad Rafael Landivar - Quetzaltenango, Guatemala • Oct 2014
 * Mitos y realidades de la seguridad en Java • Java Day Guatemala - Guatejug • Oct 2014
 * Introducción al Software Libre • Festival Latinoamericano de Instalación de Software Libre - San Marcos, Guatemala • Abr 2014
-* Seguridad en redes WiFi • Escuela de educación profesional CIETEC - Santa Maria, RS, Brazil • Dic 2013
-* Flexibilidad y alto desempeño con Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dic 2012
 * Nuevas características en Java 7 • Java Day Guatemala - Guatejug • Oct 2011
 * Seguridad y frameworks en Java • OWASP Day Guatemala • Ago 2011
 * Java como plataforma de desarrollo • Congreso Guatemalteco de Software Libre • Nov 2010
