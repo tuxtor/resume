@@ -19,7 +19,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Age
-: 28 years old
+: 29 years old
 
 Education
 ---------
@@ -28,7 +28,7 @@ Education
 :	*Master of Science (MSc), Computer Science*  
 	Focus area: Information security  
 	Universidade Federal de Santa Maria (RS, Brazil)  
-	GPA: 3.84
+	GPA: 3.84/A-
 
 2005-2009
 :	*Bachelor of Science (BSc), Computer Science and Information Systems*  
@@ -77,15 +77,20 @@ Description
 
 Experience
 ----------
+2014-currently
+: 	*CTO/Founder*  
+	[Nabenik](http://www.nabenik.com/)  
+	Joint venture focused on research and development of IT solutions and innovation management.
+
 2016-currently
 :	*Assistant Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Computer Science Department. Covering Artificial Intelligence and Modeling and Simulation areas.
 
-2014-currently
-: 	*CTO/Founder*  
-	[Nabenik](http://www.nabenik.com/)  
-	Joint venture focused on research and development of IT solutions and innovation management.
+2016
+: 	*Instructor*  
+	[Edx.org - Galileo University](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)  
+	Instructor and content creator for the "Java Fundamentals for Android" course, first english Micromaster produced in Latin America for edx.org
 
 2014-2015
 :	*Associated Professor*  

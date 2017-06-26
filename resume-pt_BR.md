@@ -19,7 +19,7 @@ Sitio Web
 : [http://vorozco.com/](http://vorozco.com/)
 
 Idade
-: 28 anos
+: 29 anos
 
 Educação
 --------
@@ -68,6 +68,12 @@ Experiencia
 :	*CTO/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
 	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da inovação
+
+2016
+:       *Professor*
+        [Edx.org - Universidad Galileo](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)
+        Professor e criador de conteudo para o curso "Java Fundamentals for Android"
+        Primeiro Micromaster em ingles criado integralmente em Latinoamerica para o edx.org
 
 2014-2015
 :	*Professor, Faculdade de Engenharia*  

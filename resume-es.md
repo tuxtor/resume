@@ -20,7 +20,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 28 años
+: 29 años
 
 Educación
 ---------
@@ -77,6 +77,12 @@ Descripción
 
 Experiencia
 -----------
+2014-actualmente
+:	*Fundador*  
+	[Nabenik](http://www.nabenik.com/)  
+	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
+	Desarrollo de aplicaciones de alto desempeño, software empresarial y movil.
+
 2016-actualmente
 :	*Profesor asociado, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
@@ -84,16 +90,16 @@ Experiencia
 	Cursos: Inteligencia Artificial, Modelación y Simulación, Programación Avanzada
 
 2016
+:	*Instructor*  
+	[Edx.org - Universidad Galileo](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)  
+	Instructor y creador de contenido para el curso "Java Fundamentals for Android"  
+	Primer Micromaster en ingles producido en Latinoamerica para edx.org
+
+2016
 :	*Catedratico, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Profesor de Ciencias de la Computación, Introducción a Inteligencia Artificial  
 	Análisis de datos, aprendizaje de maquina
-
-2014-actualmente
-:	*Fundador*  
-	[Nabenik](http://www.nabenik.com/)  
-	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
-	Desarrollo de aplicaciones de alto desempeño, software empresarial y movil.
 
 2014-2015
 :	*Catedratico, Facultad de Ingenieria*  
