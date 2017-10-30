@@ -181,6 +181,9 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Highlighted Talks [^1]
 -----------------------------------------
+* Microservices With Java 8 and Java EE 7 • III CONING 2017 - Trujillo, Peru • Oct 2017
+* Microservices Data Patterns: CQRS and Event Sourcing • Java One 2017 - San Francisco, CA, United States • Oct 2017
+* Microservices With Java 8 and Java EE 7 • Java Cloud Day 2017 - Mexico City, Mexico • Aug 2017
 * Reaching the Java Lambda Heaven • DevNexus - Atlanta, GA, United States • Feb 2017
 * Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
 * A new approach to improve accuracy in information security risk management • Eighth International Conference on Digital Society - Barcelona, Spain • Mar 2014

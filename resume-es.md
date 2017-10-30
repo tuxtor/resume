@@ -73,7 +73,7 @@ Asesor
 :	[Prof. Dr. Raul Ceretta Nunes](http://www-usr.inf.ufsm.br/~ceretta/)
 
 Descripción
-: 	Esta disertación explora la posibilidad de utilizar técnicas computacionales (especificamente Analisis de Redes Sociales) para cuantificar confianza en el ámbito de tratamiento de riesgos. La noción de confianza es utilizada para mejorar la precisión y la efectividad de las inversiones en seguridad de información.
+: 	Esta disertación explora la posibilidad de utilizar técnicas computacionales (especificamente Analisis de Redes Sociales y Machine Learning) para cuantificar confianza en el ámbito de tratamiento de riesgos. La noción de confianza es utilizada para mejorar la precisión y la efectividad de las inversiones en seguridad de información.
 
 Experiencia
 -----------
@@ -143,6 +143,9 @@ Plataformas
 Bases de datos
 :	Oracle, MySQL, PostreSQL, MongoDB
 
+Analisis de Datos
+:	Cassandra, Spark, Kafka, Hadoop, AmazonML 
+
 Áreas de CS
 :	Ingeniería de Software, Seguridad de Información, Inteligencia Artificial y Análisis de Redes Sociales
 
@@ -189,6 +192,9 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Conferencias internacionales[^1]
 -----------------------------------------
+* Microservicios con Java 8 y Java EE 7 • III CONING 2017 - Trujillo, Peru • Oct 2017
+* Microservices Data Patterns: CQRS and Event Sourcing • Java One 2017 - San Francisco, CA, United States • Oct 2017
+* Microservicios con Java 8 y Java EE 7 • Java Cloud Day 2017 - Universidad Nacional Autonoma de Mexico, CDMX, México • Ago 2017
 * Reaching the Java Lambda Heaven • DevNexus - Atlanta, GA, United States • Feb 2017
 * Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
 * A new approach to improve accuracy in information security risk management • Eighth International Conference on Digital Society - Barcelona, Spain • Mar 2014
@@ -225,7 +231,7 @@ Conferencias[^1]
 
 Otras actividades
 ----------------
-2016-currently
+2016-actualmente
 :	*JUG Leader*  
 	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
 
