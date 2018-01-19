@@ -86,7 +86,7 @@ Experiencia
 	Atividades de pesquisa no programa de pós-graduação em informática. Integrante do grupo "Gestão e Tecnologia em Segurança da Informação (GtSeg)".
 
 2010-2012
-:	*Arquiteto de Software JEE*  
+:	*Arquiteto de Software JavaEE*  
 	[Soluciones Estratégicas S.A.](http://www.mobilges.com/)  
 	Analise e desenvolvimento de software, desenvolvimento SOA, desenvolvimento para plataformas moveis (Android, Blackberry e iOS), infraestrutura de TI.
 
@@ -112,7 +112,7 @@ Linguagens
 :	Java, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas
-:	JEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
+:	JavaEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
 
 Bancos de dados
 :	Oracle, MySQL, PostreSQL, MongoDB

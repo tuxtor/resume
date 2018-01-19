@@ -78,9 +78,9 @@ Descripción
 Experiencia
 -----------
 2014-actualmente
-:	*Fundador*  
+:	*Arquitecto de Software*  
 	[Nabenik](http://www.nabenik.com/)  
-	Emprendimiento de riesgo dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
+	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
 	Desarrollo de aplicaciones de alto desempeño, software empresarial y movil.
 
 2016-actualmente
@@ -112,9 +112,9 @@ Experiencia
 	Actividades de investigación en el programa de ciencias de la computación. Miembro del grupo de investigación "Administración y Tecnologías en Seguridad de Información (Gestão e Tecnologia em Segurança da Informação)".
 
 2010-2012
-:	*Arquitecto de Software JEE*  
+:	*Arquitecto de Software JavaEE*  
 	[Soluciones Estratégicas S.A.](http://www.mobilges.com/)  
-	Análisis y diseño de software, desarrollo SOA, desarrollo para plataforma móviles (Android, Blackberry e iOS), diseño de infraestructura de TI, consultoría en software libre, algoritmos de alto desempeño, especialista JEE.
+	Análisis y diseño de software, desarrollo SOA, desarrollo para plataforma móviles (Android, Blackberry e iOS), diseño de infraestructura de TI, consultoría en software libre, algoritmos de alto desempeño, especialista JavaEE.
 
 2009-2010
 : 	*Desarrollador Freelance*  
@@ -138,13 +138,13 @@ Lenguajes
 :	Java, JavaScript, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas  
-:	JEE, JSE, AngularJS, JavaFX, Android, iOS, Spring, QT
+:	JavaEE, JSE, AngularJS, JavaFX, Android, iOS, Spring, QT
 
 Bases de datos
 :	Oracle, MySQL, PostreSQL, MongoDB
 
 Analisis de Datos
-:	Cassandra, Spark, Kafka, Hadoop, AmazonML 
+:	Cassandra, Spark, Kafka, Hadoop, AmazonML
 
 Áreas de CS
 :	Ingeniería de Software, Seguridad de Información, Inteligencia Artificial y Análisis de Redes Sociales

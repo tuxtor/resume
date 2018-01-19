@@ -1,4 +1,4 @@
-![](cvsmall.jpg) Víctor Leonel Orozco López
+![](cvalt.png) Víctor Leonel Orozco López
 ===========================================
 
 ----
@@ -48,7 +48,7 @@ Certifications
 	Universidad de San Carlos de Guatemala
 
 2008
-:	*JEE 6 Java Development*  
+:	*JavaEE 6 Java Development*  
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
@@ -104,9 +104,9 @@ Experience
 	Research activities in the Msc. in Computer Science program, member of the research group "Administration and Technologies in Information Security (Gestão e Tecnologia em Segurança da Informação)".
 
 2010-2012
-:	*JEE Software Architect*  
+:	*JavaEE Software Architect*  
 	[Soluciones Estrategicas S.A.](http://www.mobilges.com/)  
-	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, JEE specialist.
+	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, JavaEE specialist.
 
 2009-2010
 : 	*Freelance Developer*  
@@ -131,7 +131,7 @@ Languages
 :	Java, Scala, Python, C, C++, HTML, CSS, TeX
 
 Platforms
-:	JEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
+:	JavaEE, JavaSE, JavaME, JavaFX, Android, iOS, Spring, Struts, QT
 
 Databases
 :	Oracle, MySQL, PostreSQL, MongoDB
