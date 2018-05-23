@@ -77,11 +77,16 @@ Descripción
 
 Experiencia
 -----------
+2018-actualmente
+:	*Vicepresidente comisión de informatica*
+	[Senacyt](http://senacyt.concyt.gob.gt/portal/)  
+	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
+
 2014-actualmente
 :	*Arquitecto de Software*  
 	[Nabenik](http://www.nabenik.com/)  
 	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
-	Desarrollo de aplicaciones de alto desempeño, software empresarial y movil.
+	Desarrollo de aplicaciones de alto desempeño, software empresarial y movíl.
 
 2016-actualmente
 :	*Profesor asociado, Facultad de Ingenieria*  
