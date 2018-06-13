@@ -20,7 +20,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 29 años
+: 30 años
 
 Educación
 ---------
@@ -79,7 +79,7 @@ Experiencia
 -----------
 2018-actualmente
 :	*Vicepresidente comisión de informatica*
-	[Senacyt](http://senacyt.concyt.gob.gt/portal/)  
+	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)
 	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
 
 2014-actualmente
