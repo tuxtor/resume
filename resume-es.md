@@ -37,6 +37,10 @@ Educación
 
 Certificaciones
 --------------
+2018
+:	*Principles of Reactive Architecture*  
+	IBM - Lightbend  
+
 2017
 :	*Oracle Certified Associate, Java SE 8 Programmer*  
 	Oracle Corporation  
@@ -197,6 +201,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Conferencias internacionales[^1]
 -----------------------------------------
+* Functional Microservices with Java 8 and Java EE • DevNexus - Atlanta, GA, United States • Feb 2018
 * Microservicios con Java 8 y Java EE 7 • III CONING 2017 - Trujillo, Peru • Oct 2017
 * Microservices Data Patterns: CQRS and Event Sourcing • Java One 2017 - San Francisco, CA, United States • Oct 2017
 * Microservicios con Java 8 y Java EE 7 • Java Cloud Day 2017 - Universidad Nacional Autonoma de Mexico, CDMX, México • Ago 2017
@@ -210,6 +215,7 @@ Conferencias internacionales[^1]
 
 Conferencias[^1]
 ----------------
+* 101 on securing Java EE 7 and 8 Applications OWASP Latam Tour May 2018 • OWASP Latam Tour 2018 - OWASP • Jul 2018
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Privacidad vs datos abiertos • Primer foro de técnologias para la prevención del delito • Ministerio de gobernación Guatemala • Mar 2016
 * Programación Funcional con Java 8 • Java Day Guatemala - Guatejug • Oct 2015
