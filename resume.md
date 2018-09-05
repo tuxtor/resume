@@ -39,8 +39,12 @@ Certifications
 --------------
 
 2018
-:       *Principles of Reactive Architecture*
-        IBM - Lightbend
+:	*Oracle Certified Professional, Java SE 8 Programmer*  
+	Oracle Corporation  
+
+2018
+:	*Principles of Reactive Architecture*  
+	IBM - Lightbend
 
 2017
 :	*Oracle Certified Associate, Java SE 8 Programmer*  
