@@ -61,6 +61,11 @@ Certificaciones
 
 Premios
 ------
+2018  
+:	*Java Champion*  
+	[Oracle Corporation](https://twitter.com/Java_Champions/status/1044284671998218248)  
+	Java Champions son un grupo exclusivo de apasionados en Java, lideres comunitarios que son nominados y seleccionados por el proyecto patrocinado por Oracle  
+
 2016
 :	*Duke's Choice Award*  
 	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
@@ -151,7 +156,7 @@ Lenguajes
 :	Java, JavaScript, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas  
-:	JavaEE, JSE, AngularJS, JavaFX, Android, iOS, Spring, QT
+:	Java EE, Java SE, Java ME, AngularJS, Java FX, Android, iOS, Spring, QT
 
 Bases de datos
 :	Oracle, MySQL, PostreSQL, MongoDB
@@ -205,6 +210,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Conferencias internacionales[^1]
 -----------------------------------------
+* Introducción a Java EE 8 con Payara 5 • Comunidad Hipana JUGs - jEspañol • Jul 2018
+* Functional Microservices with Java 8 and Java EE • JavaUp - Instituto Politecnico Nacional, CDMX, México • Abr 2018
 * Functional Microservices with Java 8 and Java EE • DevNexus - Atlanta, GA, United States • Feb 2018
 * Microservicios con Java 8 y Java EE 7 • III CONING 2017 - Trujillo, Peru • Oct 2017
 * Microservices Data Patterns: CQRS and Event Sourcing • Java One 2017 - San Francisco, CA, United States • Oct 2017
@@ -219,6 +226,7 @@ Conferencias internacionales[^1]
 
 Conferencias[^1]
 ----------------
+* Introduccción a Microservicios con Eclipse MicroProfile y Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018
 * 101 on securing Java EE 7 and 8 Applications OWASP Latam Tour May 2018 • OWASP Latam Tour 2018 - OWASP • Jul 2018
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Privacidad vs datos abiertos • Primer foro de técnologias para la prevención del delito • Ministerio de gobernación Guatemala • Mar 2016

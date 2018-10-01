@@ -19,7 +19,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Age
-: 29 years old
+: 30 years old
 
 Education
 ---------
@@ -55,17 +55,17 @@ Certifications
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
-2008
-:	*JavaEE 6 Java Development*  
-	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
-	Universidad de San Carlos de Guatemala
-
 Awards
 ------
+2018
+:	*Java Champion*  
+	[Oracle Corporation](https://github.com/aalmiray/java-champions)  
+	The Java Champions are an exclusive group of passionate Java technology and community leaders who are community-nominated and selected under a project sponsored by Oracle. Java Champions get the opportunity to provide feedback, ideas, and direction that will help Oracle grow the Java Platform
+
 2016
 :	*Duke's Choice Award*  
 	[Oracle Corporation](https://blogs.oracle.com/java/2016-duke%E2%80%99s-choice-award-winners)  
-	Community award for “The Duke’s Adventures” Project
+	Educational outreach award for “The Duke’s Adventures” Project
 
 2011
 :	*Grad School Scholarship*  
@@ -85,12 +85,17 @@ Description
 
 Experience
 ----------
+2018-currently
+:	*Vicepresident of the information sciences comission*  
+	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
+	Vicepresident on the national information science commission on the nacional science an technology system.  
+
 2014-currently
 : 	*CTO/Founder*  
 	[Nabenik](http://www.nabenik.com/)  
 	Joint venture focused on research and development of IT solutions and innovation management.
 
-2016-currently
+2016-2018  
 :	*Assistant Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Computer Science Department. Covering Artificial Intelligence and Modeling and Simulation areas.
@@ -104,7 +109,6 @@ Experience
 :	*Associated Professor*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Part-time professor in introduction to computers programing course.
-
 
 2012-2014
 : 	*CAPES Msc. fellow*  
@@ -120,7 +124,6 @@ Experience
 : 	*Freelance Developer*  
 	[Open Training](http://www.open-training.com/)  
 	Java Web Development (Servlets, JSP, JSTL, persistence), Struts, Richfaces, PostgreSQL Administration, Oracle Administration.
-
 
 2005-2010
 :	*IT Consultant*  
@@ -139,7 +142,7 @@ Languages
 :	Java, Scala, Python, C, C++, HTML, CSS, TeX
 
 Platforms
-:	JavaEE, JavaSE, JavaME, JavaFX, Android, iOS, Spring, Struts, QT
+:	Java EE, Java SE, Java ME, AngularJS, Java FX, Android, iOS, Spring, QT
 
 Databases
 :	Oracle, MySQL, PostreSQL, MongoDB
@@ -189,6 +192,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Highlighted Talks [^1]
 -----------------------------------------
+* Introduction to Java EE 8 with Payara 5 • Comunidad Hipana JUGs - jEspañol • Jul 2018
+* Functional Microservices with Java 8 and Java EE • JavaUp - Instituto Politecnico Nacional, CDMX, México • Abr 2018
 * Functional Microservices with Java 8 and Java EE • DevNexus - Atlanta, GA, United States • Feb 2018
 * Microservices With Java 8 and Java EE 7 • III CONING 2017 - Trujillo, Peru • Oct 2017
 * Microservices Data Patterns: CQRS and Event Sourcing • Java One 2017 - San Francisco, CA, United States • Oct 2017
@@ -203,6 +208,7 @@ Highlighted Talks [^1]
 
 Talks[^1]
 ---------------
+* Introduction to Microservices with Eclipse MicroProfile and Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018
 * 101 on securing Java EE 7 and 8 Applications OWASP Latam Tour May 2018 • OWASP Latam Tour 2018 - OWASP • July 2018
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • July 2016
 * Privacy vs Open Data • Technologies for crime prevention forum • Ministerio de Gobernación Guatemala • Mar 2016

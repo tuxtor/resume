@@ -53,6 +53,11 @@ Certificações
 	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
 	Universidad de San Carlos de Guatemala
 
+2008
+:	*Java EE 6 applications development*  
+	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
+	Universidad de San Carlos de Guatemala
+
 Dissertação de Mestrado
 ----------------------
 Titulo
@@ -78,10 +83,10 @@ Experiencia
 	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da inovação
 
 2016
-:       *Professor*
-        [Edx.org - Universidad Galileo](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)
-        Professor e criador de conteudo para o curso "Java Fundamentals for Android"
-        Primeiro Micromaster em ingles criado integralmente em Latinoamerica para o edx.org
+:	*Professor*
+	[Edx.org - Universidad Galileo](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)
+	Professor e criador de conteudo para o curso "Java Fundamentals for Android"
+	Primeiro Micromaster em ingles criado integralmente em Latinoamerica para o edx.org
 
 2014-2015
 :	*Professor, Faculdade de Engenharia*  
@@ -120,7 +125,7 @@ Linguagens
 :	Java, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas
-:	JavaEE, JSE, JME, JavaFX, Android, iOS, Spring, Struts, QT
+:	Java EE, Java SE, Java ME, AngularJS, Java FX, Android, iOS, Spring, QT
 
 Bancos de dados
 :	Oracle, MySQL, PostreSQL, MongoDB
@@ -182,6 +187,7 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Palestras[^1]
 -------------
+
 * Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Desenvolvimento funcional com Java 8 • Java Day Guatemala - Guatejug • Oct 2015
