@@ -91,14 +91,14 @@ Descripción
 Experiencia
 -----------
 2018-actualmente
-:	*Vicepresidente comisión de informatica*
-	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)
+:	*Vicepresidente comisión de informatica*  
+	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
 	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
 
 2014-actualmente
 :	*Arquitecto de Software*  
 	[Nabenik](http://www.nabenik.com/)  
-	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.
+	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.  
 	Desarrollo de aplicaciones de alto desempeño, software empresarial y movíl.
 
 2016-actualmente
@@ -208,8 +208,10 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
-Conferencias internacionales[^1]
------------------------------------------
+Participaciones internacionales como expositor[^1]
+--------------------------------------------------
+* Beyond Git push, clone and commit • Oracle Code One - San Francisco, CA, United States • Oct 2018
+* Eclipse MicroProfile metrics - Practical use cases • Oracle Code One - San Francisco, CA, United States • Oct 2018
 * Introducción a Java EE 8 con Payara 5 • Comunidad Hipana JUGs - jEspañol • Jul 2018
 * Functional Microservices with Java 8 and Java EE • JavaUp - Instituto Politecnico Nacional, CDMX, México • Abr 2018
 * Functional Microservices with Java 8 and Java EE • DevNexus - Atlanta, GA, United States • Feb 2018
@@ -224,8 +226,8 @@ Conferencias internacionales[^1]
 * High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
 * Distributed compilation with Distcc and Icecream clusters using Gentoo, a benchmarking study case • Forum Internacional de Software Livre (FISL) - Porto Alegre, RS Brazil • Apr 2012
 
-Conferencias[^1]
-----------------
+Participaciones nacionales como expositor[^1]
+---------------------------------------------
 * Introduccción a Microservicios con Eclipse MicroProfile y Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018
 * 101 on securing Java EE 7 and 8 Applications OWASP Latam Tour May 2018 • OWASP Latam Tour 2018 - OWASP • Jul 2018
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
