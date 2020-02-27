@@ -11,7 +11,7 @@
 Datos Personales
 ---------
 E-mail
-:	me@vorozco.com
+: me@vorozco.com
 
 Télefono
 : +502 58783901
@@ -20,14 +20,14 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 30 años
+: 31 años
 
 Educación
 ---------
 2012-2013
-:	*Maestría en Ciencias (MSc), Ciencias de la Computación*  
-	Area de actuación: Seguridad de sistemas de información  
-	Universidade Federal de Santa Maria (RS, Brazil)  
+:	*Master of Science (MSc), Computer Science* 
+	Area de investigación: Seguridad de sistemas de información 
+	Universidade Federal de Santa Maria (RS, Brazil) 
 	GPA: 3.84/A-
 
 2005-2009
@@ -49,22 +49,17 @@ Certificaciones
 :	*Oracle Certified Associate, Java SE 8 Programmer*  
 	Oracle Corporation  
 
-2008
-:	*Oracle DB Administration*  
-	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
-	Universidad de San Carlos de Guatemala
-
-2008
-:	*Java EE 6 applications development*  
-	TATA Consultancy Services and India-Guatemala IT Education Centre of Excellence  
-	Universidad de San Carlos de Guatemala
-
 Premios
 ------
 2018  
 :	*Java Champion*  
+	[Oracle Corporation](https://blogs.oracle.com/java/30-new-java-champions-confirmed-in-2018)  
+	Java Champions son un grupo exclusivo de apasionados en Java, lideres comunitarios que son nominados y seleccionados a través de un proyecto patrocinado por Oracle, los cuales reciben la oportunidad de proveer retroalimentación, ideas y dirección para ayudar al crecimiento de la plataforma Java.
+
+2018  
+:	*Oracle Groundbreakers Ambassador*  
 	[Oracle Corporation](https://twitter.com/Java_Champions/status/1044284671998218248)  
-	Java Champions son un grupo exclusivo de apasionados en Java, lideres comunitarios que son nominados y seleccionados por el proyecto patrocinado por Oracle  
+	Los Oracle Groundbreakers Ambassador son profesionales con experiencia en desarrollo moderno, en areas como Cloud, Microservicios, Contenedores, Java, Devops y técnologias Open Source. Identificados como contribuyentes al desarrollo Open Source y oradores en las conferencias top de la industria como DeveloperWeek, DevNexus, Devoxx, Oracle Code One y QCon.
 
 2016
 :	*Duke's Choice Award*  
@@ -90,7 +85,7 @@ Descripción
 
 Experiencia
 -----------
-2018-actualmente
+2018-2019
 :	*Vicepresidente comisión de informatica*  
 	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
 	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
@@ -101,7 +96,7 @@ Experiencia
 	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.  
 	Desarrollo de aplicaciones de alto desempeño, software empresarial y movíl.
 
-2016-actualmente
+2016-actualmente  
 :	*Profesor asociado, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Profesor asociado al Departamento de Computación, Facultad de Ingenieria  
@@ -153,7 +148,7 @@ Experiencia
 Habilidades TI
 --------------
 Lenguajes
-:	Java, JavaScript, Scala, Python, C, C++, HTML, CSS, TeX
+:	Java, JavaScript, Kotlin, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas  
 :	Java EE, Java SE, Java ME, AngularJS, Java FX, Android, iOS, Spring, QT
@@ -210,6 +205,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Participaciones internacionales como expositor[^1]
 --------------------------------------------------
+* MicroProfile for the busy developer • Es-Conference CDMX - CDMX, México • Mar 2019
+* MicroProfile for the busy developer • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2018
 * Beyond Git push, clone and commit • Oracle Code One - San Francisco, CA, United States • Oct 2018
 * Eclipse MicroProfile metrics - Practical use cases • Oracle Code One - San Francisco, CA, United States • Oct 2018
 * Introducción a Java EE 8 con Payara 5 • Comunidad Hipana JUGs - jEspañol • Jul 2018
