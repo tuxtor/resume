@@ -12,9 +12,6 @@ Personal Details
 E-mail
 : me@vorozco.com
 
-Phone number
-: +502 58783901
-
 Website
 : [http://vorozco.com/](http://vorozco.com/)
 
