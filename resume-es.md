@@ -14,7 +14,7 @@ E-mail
 : me@vorozco.com
 
 Website
-: [http://vorozco.com/](http://vorozco.com/)
+: [https://vorozco.com/](http://vorozco.com/)
 
 Edad
 : 32 años
@@ -82,13 +82,9 @@ Descripción
 
 Experiencia
 -----------
-2018-2019
-:	*Vicepresidente comisión de informatica*  
-	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
-	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
 
 2014-actualmente
-:	*Arquitecto de Software*  
+:	*Director de R&D/Fundador*  
 	[Nabenik](http://www.nabenik.com/)  
 	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.  
 	Desarrollo de aplicaciones de alto desempeño, software empresarial y movíl.
@@ -98,6 +94,12 @@ Experiencia
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Profesor asociado al Departamento de Computación, Facultad de Ingenieria  
 	Cursos: Inteligencia Artificial, Modelación y Simulación, Programación Avanzada
+
+2018-2019
+:	*Vicepresidente comisión de informatica*  
+	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
+	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
+
 
 2016
 :	*Instructor*  
@@ -202,6 +204,19 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Participaciones internacionales como expositor[^1]
 --------------------------------------------------
+
+* Microservices Patterns with MicroProfile • The Developers Conference/Oracle - Porto Alegre, Brasil • Dec 2020
+* Securing Java EE applications for the OWASP Top 10  • Ekoparty University Talks - BS, Argentina • Nov 2020
+* From the TV to the Cloud, the Java ecosystem in 25 years • Oracle - LATAM • Oct 2020
+* From Java 11 on premise to Java 14 to the Oracle Cloud • Oracle Groundbreakers Tour LATAM • Aug 2020
+* Evaluating Java security with OWASP Top 10 • JUG Merida Meetup - Merida, México • May 2020
+* Java a language dying 25 years ago • IFF Meetup - RS, Brasil • May 2020
+* From Java 8 on premise to Java 14 on the Cloud • Mitoweek Conference, Peru • May 2020
+* From Java 8 to Java 14 • SOUJava Meetup - São Paulo, Brasil • Mar 2020
+* Take advantage of MicroProfile benefits in your monolithic applications • The Developer Conference - Porto Alegre, RS, Brasil • Nov 2019
+* Take advantage of MicroProfile benefits in your monolithic applications • Oracle Code One - San Francisco, United States • Sept 2019
+* Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • Oracle Groundbreakers Tour - Panama City, Panama • Aug 2019
+* Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • The Developer Conference - São Paulo, Brazil • Jul 2019
 * MicroProfile for the busy developer • Es-Conference CDMX - CDMX, México • Mar 2019
 * MicroProfile for the busy developer • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2018
 * Beyond Git push, clone and commit • Oracle Code One - San Francisco, CA, United States • Oct 2018
@@ -222,6 +237,8 @@ Participaciones internacionales como expositor[^1]
 
 Participaciones nacionales como expositor[^1]
 ---------------------------------------------
+
+* Kotlin for Java Developers • Colegio de Ingenieros de Guatemala - Guatemala • Sep 2020
 * Introduccción a Microservicios con Eclipse MicroProfile y Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018
 * 101 on securing Java EE 7 and 8 Applications OWASP Latam Tour May 2018 • OWASP Latam Tour 2018 - OWASP • Jul 2018
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016

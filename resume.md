@@ -195,6 +195,15 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Highlighted Talks [^1]
 -----------------------------------------
+* Microservices Patterns with MicroProfile • The Developers Conference/Oracle - Porto Alegre, Brasil • Dec 2020
+* Securing Java EE applications for the OWASP Top 10  • Ekoparty University Talks - BS, Argentina • Nov 2020
+* From the TV to the Cloud, the Java ecosystem in 25 years • Oracle - LATAM • Oct 2020
+* Kotlin for Java Developers • Colegio de Ingenieros de Guatemala - Guatemala • Sep 2020
+* From Java 11 on premise to Java 14 to the Oracle Cloud • Oracle Groundbreakers Tour LATAM • Aug 2020
+* Evaluating Java security with OWASP Top 10 • JUG Merida Meetup - Merida, México • May 2020
+* Java a language dying 25 years ago • IFF Meetup - RS, Brasil • May 2020
+* From Java 8 on premise to Java 14 on the Cloud • Mitoweek Conference, Peru • May 2020
+* From Java 8 to Java 14 • SOUJava Meetup - São Paulo, Brasil • Mar 2020
 * Take advantage of MicroProfile benefits in your monolithic applications • The Developer Conference - Porto Alegre, RS, Brasil • Nov 2019
 * Take advantage of MicroProfile benefits in your monolithic applications • Oracle Code One - San Francisco, United States • Sept 2019
 * Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • Oracle Groundbreakers Tour - Panama City, Panama • Aug 2019
