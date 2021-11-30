@@ -17,7 +17,7 @@ Website
 : [http://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 32 años
+: 33 años
 
 Educación
 ---------
@@ -34,6 +34,10 @@ Educación
 
 Certificaciones
 --------------
+2021
+:	*CKA: Certified Kubernetes Administrator*  
+	The Linux Foundation  
+
 2018
 :	*Oracle Certified Professional, Java SE 8 Programmer*  
 	Oracle Corporation  
@@ -82,23 +86,29 @@ Descripción
 
 Experiencia
 -----------
-2018-2019
-:	*Vicepresidente comisión de informatica*  
-	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
-	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
-
 2014-actualmente
-:	*Arquitecto de Software*  
+:	*Arquitecto de soluciones*  
 	[Nabenik](http://www.nabenik.com/)  
 	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.  
 	Desarrollo de aplicaciones de alto desempeño, software empresarial y movíl.
+ 
+2020-actualmente  
+:	*Profesor asociado, Facultad de Ingenieria*  
+	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
+	Profesor asociado al Departamento de Computación, disciplinas de sistemas organizacionales y gerenciales 
+	Supervisor de trabajos de graduación y EPS 
 
 2016-actualmente  
 :	*Profesor asociado, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Profesor asociado al Departamento de Computación, Facultad de Ingenieria  
 	Cursos: Inteligencia Artificial, Modelación y Simulación, Programación Avanzada
-
+ 
+2018-2019
+:	*Vicepresidente comisión de informatica*  
+	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
+	Vicepresidente de la comisión nacional de informatica en el sistema nacional de ciencia y tecnologia.  
+ 
 2016
 :	*Instructor*  
 	[Edx.org - Universidad Galileo](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)  
@@ -202,6 +212,15 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Participaciones internacionales como expositor[^1]
 --------------------------------------------------
+* Microservices Patterns with MicroProfile • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2020
+* Securing Java EE applications for the OWASP Top 10 • OWASP Infosec Conference (University Talks), Argentina • Nov 2020
+* From the TV to the Cloud, the Java ecosystem in 25 years • Oracle's Java 25th Anniversary talks, Worldwide • Oct 2020
+* From Java 11 on premise to Java 14 to the Oracle Cloud • Oracle GroundBreakers Tour, LATAM • Ago 2020
+* From Java 8 on premise to Java 14 on the Cloud • MitoWeek Conference - Peru • May 2020
+* Take advantage of MicroProfile benefits in your monolithic applications • The Developer Conference - Porto Alegre, RS, Brasil • Nov 2019
+* Take advantage of MicroProfile benefits in your monolithic applications • Oracle Code One - San Francisco, United States • Sep 2019
+* Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • Oracle Groundbreakers Tour - Panama City, Panama • Ago 2019
+* Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • The Developer Conference - São Paulo, Brazil • Jul 2019
 * MicroProfile for the busy developer • Es-Conference CDMX - CDMX, México • Mar 2019
 * MicroProfile for the busy developer • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2018
 * Beyond Git push, clone and commit • Oracle Code One - San Francisco, CA, United States • Oct 2018

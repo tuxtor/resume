@@ -16,7 +16,7 @@ Sitio Web
 : [http://vorozco.com/](http://vorozco.com/)
 
 Idade
-: 32 anos
+: 33 anos
 
 Educação
 --------
@@ -33,6 +33,10 @@ Educação
 
 Certificações
 -------------
+2021
+:	*CKA: Certified Kubernetes Administrator*  
+	The Linux Foundation  
+
 2018
 :	*Oracle Certified Professional, Java SE 8 Programmer*  
 	Oracle Corporation  
@@ -69,16 +73,21 @@ Descrição
 Experiencia
 -----------
 2014-atualmente
-:	*Professor, Faculdade de Engenharia*  
-	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Professor de Ciencia da Computação, Introducção à Inteligência Artificial
-	Professor de Engenharia Aplicada, Modelação e Simulação de Sistemas
-
-2014-atualmente
-:	*CTO/Fundador*  
+:	*Arquiteto de soluções*  
 	[Nabenik](http://www.nabenik.com/)  
 	Empresa de risco focada em pesquisa e desenvolvimento de soluções de TI e gestão da inovação
-
+ 
+2020-currently  
+:	*Professor, Faculdade de Engenharia*  
+	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
+	Professor de Ciencia da Computação, Sistemas Gerenciais 
+	Supervisor geral de trabalhos de conclusão de curso
+ 
+2014-atualmente
+:	*Professor, Faculdade de Engenharia*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Professor de Ciencia da Computação, Introdução à Inteligência Artificial
+ 
 2016
 :	*Professor*
 	[Edx.org - Universidad Galileo](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)
@@ -184,7 +193,26 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Palestras[^1]
 -------------
-
+* Microservices Patterns with MicroProfile • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2020
+* Securing Java EE applications for the OWASP Top 10 • OWASP Infosec Conference (University Talks), Argentina • Nov 2020
+* From the TV to the Cloud, the Java ecosystem in 25 years • Oracle's Java 25th Anniversary talks, Worldwide • Oct 2020
+* From Java 11 on premise to Java 14 to the Oracle Cloud • Oracle GroundBreakers Tour, LATAM • Ago 2020
+* From Java 8 on premise to Java 14 on the Cloud • MitoWeek Conference - Peru • May 2020
+* Take advantage of MicroProfile benefits in your monolithic applications • The Developer Conference - Porto Alegre, RS, Brasil • Nov 2019
+* Take advantage of MicroProfile benefits in your monolithic applications • Oracle Code One - San Francisco, United States • Sep 2019
+* Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • Oracle Groundbreakers Tour - Panama City, Panama • Ago 2019
+* Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • The Developer Conference - São Paulo, Brazil • Jul 2019
+* MicroProfile for the busy developer • Es-Conference CDMX - CDMX, México • Mar 2019
+* MicroProfile for the busy developer • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2018
+* Beyond Git push, clone and commit • Oracle Code One - San Francisco, CA, United States • Oct 2018
+* Eclipse MicroProfile metrics - Practical use cases • Oracle Code One - San Francisco, CA, United States • Oct 2018
+* Introducción a Java EE 8 con Payara 5 • Comunidad Hipana JUGs - jEspañol • Jul 2018
+* Functional Microservices with Java 8 and Java EE • JavaUp - Instituto Politecnico Nacional, CDMX, México • Abr 2018
+* Functional Microservices with Java 8 and Java EE • DevNexus - Atlanta, GA, United States • Feb 2018
+* Microservicios con Java 8 y Java EE 7 • III CONING 2017 - Trujillo, Peru • Oct 2017
+* Microservices Data Patterns: CQRS and Event Sourcing • Java One 2017 - San Francisco, CA, United States • Oct 2017
+* Microservicios con Java 8 y Java EE 7 • Java Cloud Day 2017 - Universidad Nacional Autonoma de Mexico, CDMX, México • Ago 2017
+* Reaching the Java Lambda Heaven • DevNexus - Atlanta, GA, United States • Feb 2017
 * Increasing the Maturity of Our Java User Groups • Java One - San Francisco, CA, United States • Sep 2016
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • Jul 2016
 * Desenvolvimento funcional com Java 8 • Java Day Guatemala - Guatejug • Oct 2015

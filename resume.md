@@ -1,5 +1,5 @@
-![](cvalt.png) Víctor Leonel Orozco López
-===========================================
+Víctor Leonel Orozco López
+==========================
 
 ----
 
@@ -13,10 +13,10 @@ E-mail
 : me@vorozco.com
 
 Website
-: [http://vorozco.com/](http://vorozco.com/)
+: [https://vorozco.com/](https://vorozco.com/)
 
 Age
-: 32 years old
+: 33 years old
 
 Education
 ---------
@@ -34,6 +34,9 @@ Education
 
 Certifications
 --------------
+2021
+:	*CKA: Certified Kubernetes Administrator*  
+	The Linux Foundation  
 
 2018
 :	*Oracle Certified Professional, Java SE 8 Programmer*  
@@ -54,15 +57,15 @@ Certifications
 
 Awards
 ------
-2015
-:	*Oracle Groundbreakers Ambassadors*  
-	[Oracle Corporation](https://github.com/aalmiray/java-champions)  
-        Oracle Groundbreakers Ambassador are professionals with experience in modern software developmen, in areas like Cloud, Microservices, Containers, Java, Devops and Open Source technologies. Frecuent speakers in top developer conferences like DeveloperWeek, DevNexus, Devoxx, Oracle Code One and QCon.
 
+2018
+:	*Oracle Groundbreakers Ambassadors*  
+	[Oracle Corporation](https://apexapps.oracle.com/pls/apex/f?p=119297:gb:::::p10_first%2cp10_last:victor%2corozco)  
+        Oracle Groundbreakers Ambassador are professionals with experience in modern software developmen, in areas like Cloud, Microservices, Containers, Java, Devops and Open Source technologies. Frecuent speakers in top developer conferences like DeveloperWeek, DevNexus, Devoxx, Oracle Code One and QCon.
 
 2018
 :	*Java Champion*  
-	[Oracle Corporation](https://github.com/aalmiray/java-champions)  
+	[Oracle Corporation](https://apexapps.oracle.com/pls/apex/f?p=119297:gb:::::p10_first%2cp10_last:victor%2corozco)  
 	The Java Champions are an exclusive group of passionate Java technology and community leaders who are community-nominated and selected under a project sponsored by Oracle. Java Champions get the opportunity to provide feedback, ideas, and direction that will help Oracle grow the Java Platform
 
 2016
@@ -77,6 +80,7 @@ Awards
 
 Msc. Dissertation
 -----------------
+
 Title
 :	*Risk assessment in information security: Quantification of trust as a parameter for human biases reduction*
 
@@ -88,24 +92,30 @@ Description
 
 Experience
 ----------
+
+2014-currently
+: 	*Solutions architect*  
+	[Nabenik](http://www.nabenik.com/)  
+	Joint venture focused on research and development of IT solutions and digital maturity.
+
+2020-currently  
+:	*Lecturer*  
+	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
+	Computer Science Department. Acting as lecturer in organizational and management system courses and supervising research activity in the department.
+
+2016-currently  
+:	*Lecturer*  
+	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
+	Computer Science Department. Covering Artificial Intelligence and Modeling and Simulation areas.
+
 2018-2019
 :	*Vicepresident of the information sciences comission*  
 	[Senacyt](http://comisiones.concyt.gob.gt/portal/index.php/comisiones/d-informatica/77-jd-informatica)  
 	Vicepresident on the national information science commission on the nacional science an technology system.  
 
-2014-currently
-: 	*CTO/Founder*  
-	[Nabenik](http://www.nabenik.com/)  
-	Joint venture focused on research and development of IT solutions and innovation management.
-
-2016-currently  
-:	*Assistant Professor*  
-	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Computer Science Department. Covering Artificial Intelligence and Modeling and Simulation areas.
-
 2016
 : 	*Instructor*  
-	[Edx.org - Galileo University](https://www.edx.org/course/java-fundamentals-android-development-galileox-caad001x)  
+	[Edx.org - Galileo University](https://www.classcentral.com/course/edx-java-fundamentals-for-android-development-7313)  
 	Instructor and content creator for the "Java Fundamentals for Android" course, first english Micromaster produced in Latin America for edx.org
 
 2014-2015
@@ -141,6 +151,7 @@ Experience
 
 IT Strengths
 ------------
+
 Languages
 :	Java, JavaScript, Kotlin, Scala, Python, C, C++, HTML, CSS, TeX
 
@@ -155,6 +166,7 @@ CS areas
 
 Languages
 ---------
+
 Spanish
 :	Native
 
@@ -167,6 +179,7 @@ Portuguese
 
 Publications
 ------------
+
 * *A new approach to improve accuracy in information security risk management.*  
 LÓPEZ, V. L. O. ; NUNES, R. C.  
 Eighth International Conference on Digital Society (ICDS 2014), 2014, Barcelona, Spain.
@@ -195,6 +208,11 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Highlighted Talks [^1]
 -----------------------------------------
+* Microservices Patterns with MicroProfile • The Developer Conference - Porto Alegre, RS, Brasil • Dec 2020
+* Securing Java EE applications for the OWASP Top 10 • OWASP Infosec Conference (University Talks), Argentina • Nov 2020
+* From the TV to the Cloud, the Java ecosystem in 25 years • Oracle's Java 25th Anniversary talks, Worldwide • Oct 2020
+* From Java 11 on premise to Java 14 to the Oracle Cloud • Oracle GroundBreakers Tour, LATAM • Aug 2020
+* From Java 8 on premise to Java 14 on the Cloud • MitoWeek Conference - Peru • May 2020
 * Take advantage of MicroProfile benefits in your monolithic applications • The Developer Conference - Porto Alegre, RS, Brasil • Nov 2019
 * Take advantage of MicroProfile benefits in your monolithic applications • Oracle Code One - San Francisco, United States • Sept 2019
 * Kotlin+MicroProfile: Teaching 20 year old tricks to a new language • Oracle Groundbreakers Tour - Panama City, Panama • Aug 2019
@@ -217,6 +235,8 @@ Highlighted Talks [^1]
 
 Talks[^1]
 ---------------
+* Evaluating Java security with OWASP Top 10 • JUG Merida Meetup, Mexico • Aug 2020
+* From Java 8 to Java 14 • SOUJava Meetup, Brazil • Mar 2020
 * Introduction to Microservices with Eclipse MicroProfile and Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018
 * 101 on securing Java EE 7 and 8 Applications OWASP Latam Tour May 2018 • OWASP Latam Tour 2018 - OWASP • July 2018
 * Bootstraping Java EE 7 Applications with Eclipse Neon and JBoss Forge • Java Day Guatemala - Guatejug • July 2016
@@ -246,6 +266,7 @@ Talks[^1]
 
 Other activities
 ----------------
+
 2016-currently
 :	*JUG Leader*  
 	[Guatemalan Java Users Group](http://www.guate-jug.net/)  	
@@ -269,6 +290,7 @@ Other activities
 
 Other interests
 ---------------
+
 Backpacking, running, natural languages, science and free software advocacy.
 
 
