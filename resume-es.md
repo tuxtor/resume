@@ -52,6 +52,11 @@ Certificaciones
 
 Premios
 ------
+2022  
+:	*Oracle ACE*  
+	[Oracle Corporation](https://apex.oracle.com/pls/apex/aces/d/victor.orozco)  
+	El programa Oracle ACE destaca la excelencia dentro de la comunidad global de Oracle al reconocer a las personas que han demostrado competencia técnica y sólidas credenciales como entusiastas y defensores de la comunidad.
+
 2018  
 :	*Java Champion*  
 	[Oracle Corporation](https://blogs.oracle.com/java/30-new-java-champions-confirmed-in-2018)  
@@ -86,22 +91,27 @@ Descripción
 
 Experiencia
 -----------
+2021
+:	*Consultor*  
+	[Instituto Nacional de Ciencias Forenses de Guatemala -INACIF-](https://inacif.gob.gt/)  
+	Consultoría en Capacitación e Implementación de Integración Continua y Herramientas Cloud Native
+
 2014-actualmente
-:	*Arquitecto de soluciones*  
+:	*Arquitecto de Soluciones*  
 	[Nabenik](http://www.nabenik.com/)  
 	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.  
-	Desarrollo de aplicaciones de alto desempeño, software empresarial y movíl.
+	Desarrollo de aplicaciones de alto desempeño, software empresarial y móvil.
  
 2020-actualmente  
 :	*Profesor asociado, Facultad de Ingenieria*  
 	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
-	Profesor asociado al Departamento de Computación, disciplinas de sistemas organizacionales y gerenciales 
+	Profesor asociado al Departamento de Computación, disciplinas de sistemas organizacionales y gerenciales  
 	Supervisor de trabajos de graduación y EPS 
 
-2016-actualmente  
+2016-2020  
 :	*Profesor asociado, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Profesor asociado al Departamento de Computación, Facultad de Ingenieria  
+	Profesor asociado al Departamento de Computación, Facultad de Ingeniería  
 	Cursos: Inteligencia Artificial, Modelación y Simulación, Programación Avanzada
  
 2018-2019

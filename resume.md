@@ -57,6 +57,10 @@ Certifications
 
 Awards
 ------
+2022  
+:	*Oracle ACE*  
+	[Oracle Corporation](https://apex.oracle.com/pls/apex/aces/d/victor.orozco)  
+	The Oracle ACE program highlights excellence within the global Oracle community by recognizing individuals who have demonstrated both technical proficiency and strong credentials as community enthusiasts and advocates. 
 
 2018
 :	*Oracle Groundbreakers Ambassadors*  
