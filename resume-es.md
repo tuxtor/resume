@@ -17,7 +17,7 @@ Website
 : [https://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 33 años
+: 34 años
 
 Educación
 ---------
@@ -91,11 +91,6 @@ Descripción
 
 Experiencia
 -----------
-2021
-:	*Consultor*  
-	[Instituto Nacional de Ciencias Forenses de Guatemala -INACIF-](https://inacif.gob.gt/)  
-	Consultoría en Capacitación e Implementación de Integración Continua y Herramientas Cloud Native
-
 2014-actualmente
 :	*Arquitecto de Soluciones*  
 	[Nabenik](http://www.nabenik.com/)  
@@ -168,7 +163,7 @@ Lenguajes
 :	Java, JavaScript, Kotlin, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas  
-:	Java EE, Java SE, Java ME, AngularJS, Java FX, Android, iOS, Spring, QT
+:	Kubernetes, Java EE, Java SE, Java FX, Android, Spring
 
 Bases de datos
 :	Oracle, MySQL, PostreSQL, MongoDB
@@ -220,8 +215,9 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
-Participaciones internacionales como expositor[^1]
---------------------------------------------------
+Participaciones internacionales como ponente[^1]
+------------------------------------------------
+* From Traditional to GitOps: A Tale of Modernizing Two Government Institutions in One Year • Open Source Summit Latin America - Virtual • Ago 2022
 * Microservices Patterns with MicroProfile • The Developers Conference/Oracle - Porto Alegre, Brasil • Dec 2020
 * Securing Java EE applications for the OWASP Top 10  • Ekoparty University Talks - BS, Argentina • Nov 2020
 * From the TV to the Cloud, the Java ecosystem in 25 years • Oracle - LATAM • Oct 2020
@@ -252,8 +248,8 @@ Participaciones internacionales como expositor[^1]
 * High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
 * Distributed compilation with Distcc and Icecream clusters using Gentoo, a benchmarking study case • Forum Internacional de Software Livre (FISL) - Porto Alegre, RS Brazil • Apr 2012
 
-Participaciones nacionales como expositor[^1]
----------------------------------------------
+Participaciones nacionales como ponente[^1]
+-------------------------------------------
 
 * Kotlin for Java Developers • Colegio de Ingenieros de Guatemala - Guatemala • Sep 2020
 * Introduccción a Microservicios con Eclipse MicroProfile y Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018
