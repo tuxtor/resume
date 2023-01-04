@@ -16,14 +16,14 @@ Website
 : [https://vorozco.com/](https://vorozco.com/)
 
 Age
-: 33 years old
+: 34 years old
 
 Education
 ---------
 
 2012-2013
 :	*Master of Science (MSc), Computer Science*  
-	Focus area: Information security  
+	Research area: Information security  
 	Universidade Federal de Santa Maria (RS, Brazil)  
 	GPA: 3.84/A-
 
@@ -57,19 +57,14 @@ Certifications
 
 Awards
 ------
-2022  
-:	*Oracle ACE*  
-	[Oracle Corporation](https://apex.oracle.com/pls/apex/aces/d/victor.orozco)  
-	The Oracle ACE program highlights excellence within the global Oracle community by recognizing individuals who have demonstrated both technical proficiency and strong credentials as community enthusiasts and advocates. 
-
-2018
-:	*Oracle Groundbreakers Ambassadors*  
-	[Oracle Corporation](https://apexapps.oracle.com/pls/apex/f?p=119297:gb:::::p10_first%2cp10_last:victor%2corozco)  
-        Oracle Groundbreakers Ambassador are professionals with experience in modern software developmen, in areas like Cloud, Microservices, Containers, Java, Devops and Open Source technologies. Frecuent speakers in top developer conferences like DeveloperWeek, DevNexus, Devoxx, Oracle Code One and QCon.
+2022 
+:	*Oracle ACE Pro*  
+	[Oracle Corporation](https://ace.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=744&clear=2)  
+	The Oracle ACE Program recognizes and rewards individuals for their contributions to the Oracle community. These technical experts and community leaders share their knowledge and experiences through making presentations; writing blog posts, articles, and books; and more. 
 
 2018
 :	*Java Champion*  
-	[Oracle Corporation](https://apexapps.oracle.com/pls/apex/f?p=119297:gb:::::p10_first%2cp10_last:victor%2corozco)  
+	[Oracle Corporation](https://javachampions.org/members.html)  
 	The Java Champions are an exclusive group of passionate Java technology and community leaders who are community-nominated and selected under a project sponsored by Oracle. Java Champions get the opportunity to provide feedback, ideas, and direction that will help Oracle grow the Java Platform
 
 2016
@@ -79,7 +74,7 @@ Awards
 
 2011
 :	*Grad School Scholarship*  
-	OAS-GCUB Scholarship Program  
+	[OAS-GCUB Scholarship Program](https://www.oas.org/en/scholarships/brazil_2022.asp)  
 	First Generation - Selected between 5000 applicants
 
 Msc. Dissertation
@@ -98,19 +93,19 @@ Experience
 ----------
 
 2014-currently
-: 	*Solutions architect*  
+: 	*CTO*  
 	[Nabenik](http://www.nabenik.com/)  
-	Joint venture focused on research and development of IT solutions and digital maturity.
+	Joint venture focused on research and development of IT solutions and digital maturity. Responsible for leading DevOps and Software Development efforts, including R&D, developers training and external consultancy activities.
 
-2020-currently  
+2020-currently 
 :	*Lecturer*  
 	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
-	Computer Science Department. Acting as lecturer in organizational and management system courses and supervising research activity in the department.
+	Computer Science Department. Acting as lecturer in IT organizational and management system courses.
 
-2016-currently  
+2016-currently 
 :	*Lecturer*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
-	Computer Science Department. Covering Artificial Intelligence and Modeling and Simulation areas.
+	Computer Science Department. Covering Artificial Intelligence, Simulation and Compilers areas.
 
 2018-2019
 :	*Vicepresident of the information sciences comission*  
@@ -128,14 +123,14 @@ Experience
 	Part-time professor in introduction to computers programing course.
 
 2012-2014
-: 	*CAPES Msc. fellow*  
+: 	*CAPES Msc. researcher*  
 	[Universidade Federal de Santa Maria](http://www.ufsm.br/)  
 	Research activities in the Msc. in Computer Science program, member of the research group "Administration and Technologies in Information Security (Gestão e Tecnologia em Segurança da Informação)".
 
 2010-2012
-:	*JavaEE Software Architect*  
+:	*Java EE Software Architect*  
 	[Soluciones Estrategicas S.A.](http://www.mobilges.com/)  
-	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, JavaEE specialist.
+	Software analysis and design, SOA development, mobile platforms development (Android, Blackberry and iOS), IT infrastructure design, FLOSS consultancy, high throughput algorithms, Java EE specialist.
 
 2009-2010
 : 	*Freelance Developer*  
@@ -150,8 +145,7 @@ Experience
 2008-2009
 :	*Teaching assistant*  
 	[Universidad de San Carlos de Guatemala](http://www.usac.edu.gt/)  
-	Software Analysis and Design aux. instructor  
-	Operating Systems aux. instructor
+	Software Analysis and Design and Operating Systems teaching assistant
 
 IT Strengths
 ------------
@@ -160,7 +154,7 @@ Languages
 :	Java, JavaScript, Kotlin, Scala, Python, C, C++, HTML, CSS, TeX
 
 Platforms
-:	Java EE, Java SE, Java ME, Angular, Java FX, Android, iOS, Spring, QT
+:	Jakarta EE, Java SE, Angular, Java FX, Android, iOS, Spring, QT
 
 Databases
 :	Oracle, MySQL, PostreSQL, MongoDB
@@ -212,6 +206,9 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Highlighted Talks [^1]
 -----------------------------------------
+
+* MicroProfile: A World Beyond REST APIs • Java One 2022 - San Francisco, CA, United States • Oct 2022
+* Creating CLI tools with GraalVM Native and Kotlin • JVM Barranquilla - Barranquilla, Colombia • Nov 2021
 * Microservices Patterns with MicroProfile • The Developers Conference/Oracle - Porto Alegre, Brasil • Dec 2020
 * Securing Java EE applications for the OWASP Top 10  • Ekoparty University Talks - BS, Argentina • Nov 2020
 * From the TV to the Cloud, the Java ecosystem in 25 years • Oracle - LATAM • Oct 2020
@@ -243,6 +240,15 @@ Highlighted Talks [^1]
 
 Talks[^1]
 ---------------
+* The Open Source State in 2022 • PMI Guatemala Meetups - Guatemala • Mar 2022 
+* Considerations for migrations between on premise and Cloud Native • PMI Guatemala Meetups - Guatemala • Mar 2022 
+* Microservice Chassis vs. Service Mesh • Kubernetes Community Days Guatemala - Guatemala • Nov 2021 
+* Serverless with FN Project • Colegio de Ingenieros de Guatemala - Guatemala • Nov 2021
+* From Java 8 to Java 17 • Colegio de Ingenieros de Guatemala - Guatemala • Oct 2021
+* Microservices Patterns with MicroProfile and Oracle Cloud • Colegio de Ingenieros de Guatemala - Guatemala • Nov 2020
+* The current state of languages in the JVM • Congreso de Estudiantes de Ingenieria (CEI) - Guatemala • Oct 2020 
+* Java Projects Management with Maven • Colegio de Ingenieros de Guatemala - Guatemala • Oct 2020
+* Kotlin for Java Developers • Colegio de Ingenieros de Guatemala - Guatemala • Sep 2020
 * Evaluating Java security with OWASP Top 10 • JUG Merida Meetup, Mexico • Aug 2020
 * From Java 8 to Java 14 • SOUJava Meetup, Brazil • Mar 2020
 * Introduction to Microservices with Eclipse MicroProfile and Java EE • Oracle Developer Tour LA - GOUG, Guatemala • Ago 2018

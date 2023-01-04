@@ -16,7 +16,7 @@ Sitio Web
 : [http://vorozco.com/](http://vorozco.com/)
 
 Idade
-: 33 anos
+: 34 anos
 
 Educação
 --------
@@ -193,6 +193,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 
 Palestras[^1]
 -------------
+
+* MicroProfile: A World Beyond REST APIs • Java One 2022 - San Francisco, CA, United States • Oct 2022
 * Microservices Patterns with MicroProfile • The Developer Conference - Porto Alegre, RS, Brasil • Dic 2020
 * Securing Java EE applications for the OWASP Top 10 • OWASP Infosec Conference (University Talks), Argentina • Nov 2020
 * From the TV to the Cloud, the Java ecosystem in 25 years • Oracle's Java 25th Anniversary talks, Worldwide • Oct 2020
