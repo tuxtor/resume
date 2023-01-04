@@ -208,6 +208,7 @@ Highlighted Talks [^1]
 -----------------------------------------
 
 * MicroProfile: A World Beyond REST APIs • Java One 2022 - San Francisco, CA, United States • Oct 2022
+* From Traditional to GitOps: A Tale of Modernizing Two Government Institutions in One Year • Open Source Summit Latin America - Virtual • Aug 2022
 * Creating CLI tools with GraalVM Native and Kotlin • JVM Barranquilla - Barranquilla, Colombia • Nov 2021
 * Microservices Patterns with MicroProfile • The Developers Conference/Oracle - Porto Alegre, Brasil • Dec 2020
 * Securing Java EE applications for the OWASP Top 10  • Ekoparty University Talks - BS, Argentina • Nov 2020
