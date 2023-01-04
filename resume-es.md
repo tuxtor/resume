@@ -159,7 +159,7 @@ Lenguajes
 :	Java, JavaScript, Kotlin, Scala, Python, C, C++, HTML, CSS, TeX
 
 Plataformas  
-:	Jakarta EE, Java SE, Java ME, AngularJS, Java FX, Android, iOS, Spring, QT
+:	Kubernetes, Java EE, Java SE, Java FX, Android, Spring
 
 Bases de datos
 :	Oracle, MySQL, PostreSQL, MongoDB
@@ -211,8 +211,9 @@ XII SEPROSUL Semana de Engenharia de Produção Sulamericana, 2012, Assunção-P
 LÓPEZ, V. L. O. ; LOBOS, J. F.  
 Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto Alegre, Associação Software Livre.Org., 2012.
 
-Participaciones internacionales como expositor[^1]
---------------------------------------------------
+Participaciones internacionales como ponente[^1]
+------------------------------------------------
+* From Traditional to GitOps: A Tale of Modernizing Two Government Institutions in One Year • Open Source Summit Latin America - Virtual • Ago 2022
 
 * MicroProfile: A World Beyond REST APIs • Java One 2022 - San Francisco, CA, United States • Oct 2022
 * Creating CLI tools with GraalVM Native and Kotlin • JVM Barranquilla - Barranquilla, Colombia • Nov 2021
@@ -246,8 +247,8 @@ Participaciones internacionales como expositor[^1]
 * High performance and flexibility with Gentoo Linux • Fórum Software Livre Tchelinux.org - Santa Maria, RS, Brazil • Dec 2012
 * Distributed compilation with Distcc and Icecream clusters using Gentoo, a benchmarking study case • Forum Internacional de Software Livre (FISL) - Porto Alegre, RS Brazil • Apr 2012
 
-Participaciones nacionales como expositor[^1]
----------------------------------------------
+Participaciones nacionales como ponente[^1]
+-------------------------------------------
 
 * The Open Source State in 2022 • PMI Guatemala Meetups - Guatemala • Mar 2022 
 * Considerations for migrations between on premise and Cloud Native • PMI Guatemala Meetups - Guatemala • Mar 2022 
