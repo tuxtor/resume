@@ -17,7 +17,7 @@ Website
 : [https://vorozco.com/](http://vorozco.com/)
 
 Edad
-: 34 años
+: 35 años
 
 Educación
 ---------
@@ -52,9 +52,9 @@ Certificaciones
 
 Premios
 ------
-2022  
+2023  
 :	*Oracle ACE Pro*  
-	[Oracle Corporation](https://apex.oracle.com/pls/apex/aces/d/victor.orozco)  
+	[Oracle Corporation](https://ace.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=744&clear=2)  
 	El programa Oracle ACE destaca la excelencia dentro de la comunidad global de Oracle al reconocer a las personas que han demostrado competencia técnica y sólidas credenciales como entusiastas y defensores de la comunidad.
 
 2018  
@@ -88,22 +88,21 @@ Experiencia
 -----------
 
 2014-actualmente
-:	*Arquitecto de Soluciones*  
+:	*Director de tecnología*  
 	[Nabenik](http://www.nabenik.com/)  
-	Estudio de software dedicado a investigación y desarrollo de soluciones de TI y gestión de la innovación.  
-	Desarrollo de aplicaciones de alto desempeño, software empresarial y móvil.
+	Joint Venture enfocado a la investigación y desarrollo de soluciones TI y madurez digital. Responsable de liderar los esfuerzos de desarrollo de software y DevOps, incluida la investigación y el desarrollo, la capacitación de desarrolladores y las actividades de consultoría externa.
  
-2020-actualmente  
-:	*Profesor asociado, Facultad de Ingenieria*  
-	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
-	Profesor asociado al Departamento de Computación, disciplinas de sistemas organizacionales y gerenciales  
-	Supervisor de trabajos de graduación y EPS 
-
-2016-2020  
+2016-2023  
 :	*Profesor asociado, Facultad de Ingenieria*  
 	[Universidad Rafael Landivar de Guatemala](http://www.url.edu.gt)  
 	Profesor asociado al Departamento de Computación, Facultad de Ingeniería  
 	Cursos: Inteligencia Artificial, Modelación y Simulación, Programación Avanzada
+
+2020-2022  
+:	*Profesor asociado, Facultad de Ingenieria*  
+	[Universidad de San Carlos de Guatemala, Centro Universitario de Occidente](http://www.ingenieria.cunoc.usac.edu.gt/portal/)  
+	Profesor asociado al Departamento de Computación, disciplinas de sistemas organizacionales y gerenciales  
+	Supervisor de trabajos de graduación y EPS 
  
 2018-2019
 :	*Vicepresidente comisión de informatica*  
@@ -250,6 +249,8 @@ Participaciones internacionales como ponente[^1]
 Participaciones nacionales como ponente[^1]
 -------------------------------------------
 
+* Gestión de cargas de trabajo cloud native con Eclipse JKube • Kubernetes Community Days - Guatemala • Ago 2023 
+* Gestión de cargas de trabajo cloud native con Eclipse JKube • Lationamérica Oracle User Group Tour - Guatemala • Ago 2023 
 * The Open Source State in 2022 • PMI Guatemala Meetups - Guatemala • Mar 2022 
 * Considerations for migrations between on premise and Cloud Native • PMI Guatemala Meetups - Guatemala • Mar 2022 
 * Microservice Chassis vs. Service Mesh • Kubernetes Community Days Guatemala - Guatemala • Nov 2021 

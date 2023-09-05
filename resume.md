@@ -207,6 +207,8 @@ Workshop Software Livre 2012, 2012, Porto Alegre, Rs. Anais do WSL 2012. Porto A
 Highlighted Talks [^1]
 -----------------------------------------
 
+* Managing Cloud Native Workloads with Eclipse JKube • Kubernetes Community Days - Guatemala • Ago 2023 
+* Managing Cloud Native Workloads with Eclipse JKube • Lationamérica Oracle User Group Tour - Guatemala • Ago 2023
 * MicroProfile: A World Beyond REST APIs • Java One 2022 - San Francisco, CA, United States • Oct 2022
 * From Traditional to GitOps: A Tale of Modernizing Two Government Institutions in One Year • Open Source Summit Latin America - Virtual • Aug 2022
 * Creating CLI tools with GraalVM Native and Kotlin • JVM Barranquilla - Barranquilla, Colombia • Nov 2021
